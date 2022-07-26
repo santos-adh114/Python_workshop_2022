@@ -21,7 +21,7 @@ Python basics, programming environment, software repositories
 * errors and their handling
 * basic file handling
 
-
+[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
@@ -42,7 +42,7 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
 - pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
 
-
+[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
@@ -68,9 +68,9 @@ Advanced programming in Python
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
 - code profiling and debugging
 
+[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
-
-### References
+**References**
 
 [1] [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
 
@@ -95,7 +95,7 @@ Common machine learning frameworks in Python
 - scikit-learn ([https://scikit-learn.org/](https://scikit-learn.org/))
 - pytorch ([https://pytorch.org/](https://pytorch.org/))
 
-
+[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
@@ -121,7 +121,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 - ASE (https://wiki.fysik.dtu.dk/ase/)
 - molecular visualization tools
 
-
+[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **Reference**
 
