@@ -21,15 +21,13 @@ Python basics, programming environment, software repositories
 * errors and their handling
 * basic file handling
 
-[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 1](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
-[1] [How to Think Like a Computer Scientist](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf)
-
-[2] [Software carpentry Python fundamentals](https://swcarpentry.github.io/python-novice-inflammation/)
-
-[3] [Awesome Python, curated materials](https://github.com/vinta/awesome-python)
+1. [How to Think Like a Computer Scientist](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf)
+2. [Software carpentry Python fundamentals](https://swcarpentry.github.io/python-novice-inflammation/)
+3. [Awesome Python, curated materials](https://github.com/vinta/awesome-python)
 
 
 <br>
@@ -42,15 +40,13 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 - seaborn ([https://seaborn.pydata.org/](https://seaborn.pydata.org/))
 - pandas ([https://pandas.pydata.org/](https://pandas.pydata.org/))
 
-[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 2](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
-[1] [Nicolas R. Rougier, Python visualization book](https://github.com/rougier/scientific-visualization-book)]
-
-[2] [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
-
-[3] [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+1. [Nicolas R. Rougier, Scientific visualization book](https://github.com/rougier/scientific-visualization-book)
+2. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
+3. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
 
 
 
@@ -68,21 +64,16 @@ Advanced programming in Python
 - introduction to object-oriented programming (OOP) in Python ([https://realpython.com/python3-object-oriented-programming/](https://realpython.com/python3-object-oriented-programming/))
 - code profiling and debugging
 
-[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 3](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
-[1] [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
-
-[2] [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2), Nature (2020)
-
-[3] [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
-
-[4] [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
-
-[5] [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
-
-[6] [Python design patterns](https://python-patterns.guide/) 
+1. [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
+2. [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2), Nature (2020)
+3. [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+4. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
+5. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
+6. [Python design patterns](https://python-patterns.guide/)
 
 
 
@@ -95,17 +86,14 @@ Common machine learning frameworks in Python
 - scikit-learn ([https://scikit-learn.org/](https://scikit-learn.org/))
 - pytorch ([https://pytorch.org/](https://pytorch.org/))
 
-[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 4](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **References**
 
-[1] [Scikit-learn official tutorials](https://scikit-learn.org/stable/tutorial/index.html)
-
-[2] [Andreas Mueller’s scikit-learn tutorial](https://amueller.github.io/sklearn_tutorial/)
-
-[3] [Pytorch tutorials](https://brsoff.github.io/tutorials/index.html)
-
-[4] [Awesome python machine learning, curated materials](https://github.com/sorend/awesome-python-machine-learning)
+1. [Scikit-learn official tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+2. [Andreas Mueller’s scikit-learn tutorial](https://amueller.github.io/sklearn_tutorial/)
+3. [Pytorch tutorials](https://brsoff.github.io/tutorials/index.html)
+4. [Awesome python machine learning, curated materials](https://github.com/sorend/awesome-python-machine-learning)
 
 
 
@@ -121,14 +109,11 @@ Python packages for molecules and materials, focus on basic data structures and 
 - ASE (https://wiki.fysik.dtu.dk/ase/)
 - molecular visualization tools
 
-[Link to material](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
+[Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
 **Reference**
 
-[1] [RDKit tutorials](https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
-
-[2] [RDKit cookbook](https://www.rdkit.org/docs/Cookbook.html)
-
-[3] [Pymatgen tutorial videos on its Youtube channel](https://www.youtube.com/c/MaterialsProject/videos)
-
-[4] [ASE tutorials](https://databases.fysik.dtu.dk/ase/tutorials/tutorials.html) 
+1. [RDKit tutorials](https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
+2. [RDKit cookbook](https://www.rdkit.org/docs/Cookbook.html)
+3. [Pymatgen tutorial videos on its Youtube channel](https://www.youtube.com/c/MaterialsProject/videos)
+4. [ASE tutorials](https://databases.fysik.dtu.dk/ase/tutorials/tutorials.html) 
