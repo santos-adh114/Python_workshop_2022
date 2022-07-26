@@ -109,7 +109,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 
 [Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
 
-**Reference**
+**References**
 
 1. [RDKit tutorials](https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 2. [RDKit cookbook](https://www.rdkit.org/docs/Cookbook.html)
