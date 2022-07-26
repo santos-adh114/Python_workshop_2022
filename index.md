@@ -1,5 +1,3 @@
-## Python workshop 2022
-
 Organizer: Department of Chemistry and Biochemistry, University of South Carolina
 
 Lecturers: Patrick Xian, Santosh Adhikari, Sourin Dey
