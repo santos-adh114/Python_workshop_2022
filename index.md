@@ -103,10 +103,10 @@ Common machine learning frameworks in Python
 
 Python packages for molecules and materials, focus on basic data structures and functionalities.
 
-- mendeleev (https://github.com/lmmentel/mendeleev)
-- RDkit (https://www.rdkit.org/)
-- pymatgen (https://pymatgen.org/)
-- ASE (https://wiki.fysik.dtu.dk/ase/)
+- mendeleev ([https://github.com/lmmentel/mendeleev](https://github.com/lmmentel/mendeleev))
+- RDkit ([https://www.rdkit.org/](https://www.rdkit.org/))
+- pymatgen ([https://pymatgen.org/](https://pymatgen.org/))
+- ASE ([https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/))
 - molecular visualization tools
 
 [Link to material - Day 5](https://github.com/Sutton-Research-Lab/Python_workshop_2022)
