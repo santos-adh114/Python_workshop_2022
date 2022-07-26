@@ -5,7 +5,7 @@ Organizer: Department of Chemistry and Biochemistry, University of South Carolin
 Lecturers: Patrick Xian, Santosh Adhikari, Sourin Dey
 
 
-<br></br>
+<br>
 ### Day 1 – August 3rd
 
 Python basics, programming environment, software repositories
@@ -32,7 +32,7 @@ Python basics, programming environment, software repositories
 [3] Awesome Python (https://github.com/vinta/awesome-python) 
 
 
-<br></br>
+<br>
 
 ### Day 2 – August 4th
 
@@ -54,7 +54,7 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 
 
 
-<br></br>
+<br>
 
 ### Day 3 – August 5th
 
@@ -86,7 +86,7 @@ Advanced programming in Python
 
 
 
-<br></br>
+<br>
 
 ### Day 4 – August 8th
 
@@ -109,7 +109,7 @@ Common machine learning frameworks in Python
 
 
 
-<br></br>
+<br>
 
 ### Day 5 – August 9th
 
