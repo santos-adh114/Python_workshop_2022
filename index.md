@@ -1,6 +1,8 @@
 Organizer: Department of Chemistry and Biochemistry, University of South Carolina
 
-Lecturers: Patrick Xian, Santosh Adhikari, Sourin Dey
+Lecturers: R. Patrick Xian, Santosh Adhikari, Sourin Dey
+
+Acknowledgements: Michael L. Myrick, Lee Hallman, Jennifer Merkel, Christopher A. Sutton
 
 
 <br>
