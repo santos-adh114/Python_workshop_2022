@@ -1,8 +1,10 @@
-Organizer: Department of Chemistry and Biochemistry, University of South Carolina
+**Host institution**: Department of Chemistry and Biochemistry, University of South Carolina
 
-Lecturers: R. Patrick Xian, Santosh Adhikari, Sourin Dey
+**Lecturers**: R. Patrick Xian, Santosh Adhikari, Sourin Dey
 
-Acknowledgements: Michael L. Myrick, Lee Hallman, Jennifer Merkel, Christopher A. Sutton
+**Organizers**: Michael L. Myrick, Lee Hallman
+
+**Acknowledgements**: Jennifer Merkel, Christopher A. Sutton
 
 
 <br>
@@ -44,9 +46,11 @@ Data visualization and data wrangling with Python. Bring your own data, if possi
 
 **References**
 
-1. [Nicolas R. Rougier, Scientific visualization book](https://github.com/rougier/scientific-visualization-book)
-2. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
-3. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
+1. [Matplotlib: A 2D graphics environment](https://dl.acm.org/doi/10.1109/MCSE.2007.55), Computing in Science and Engineering (2007)
+2. [Nicolas R. Rougier, Scientific visualization book](https://github.com/rougier/scientific-visualization-book)
+3. [Matplotlib tutorial](https://matplotlib.org/stable/tutorials/index.html)
+4. [seaborn: statistical data visualization](https://doi.org/10.21105/joss.03021), Journal of Open Source Software (2021)
+5. [Seaborn tutorial](https://seaborn.pydata.org/tutorial.html)
 
 
 
@@ -68,12 +72,13 @@ Advanced programming in Python
 
 **References**
 
-1. [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
-2. [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2), Nature (2020)
-3. [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
-4. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
-5. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
-6. [Python design patterns](https://python-patterns.guide/)
+1. [Array programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2), Nature (2020)
+2. [Numpy tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+3. [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2), Nature Methods (2020)
+4. [Scipy tutorial by phoenixNAP](https://phoenixnap.com/kb/scipy-tutorial)
+5. [A somewhat pedantic intro to OOP in Python from Microsoft](https://docs.microsoft.com/en-us/learn/modules/python-object-oriented-programming/)
+6. [Advanced concepts for OOP in Python](https://www.pythontutorial.net/python-oop/)
+7. [Python design patterns](https://python-patterns.guide/)
 
 
 
@@ -90,10 +95,12 @@ Common machine learning frameworks in Python
 
 **References**
 
-1. [Scikit-learn official tutorials](https://scikit-learn.org/stable/tutorial/index.html)
-2. [Andreas Mueller’s scikit-learn tutorial](https://amueller.github.io/sklearn_tutorial/)
-3. [Pytorch tutorials](https://brsoff.github.io/tutorials/index.html)
-4. [Awesome python machine learning, curated materials](https://github.com/sorend/awesome-python-machine-learning)
+1. [Scikit-learn: Machine Learning in Python](https://dl.acm.org/doi/10.5555/1953048.2078195), Journal of Machine Learning Research (2011)
+2. [Scikit-learn official tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+3. [Andreas Mueller’s scikit-learn tutorial](https://amueller.github.io/sklearn_tutorial/)
+4. [PyTorch: an imperative style, high-performance deep learning library](https://dl.acm.org/doi/10.5555/3454287.3455008), NeurIPS (2019)
+5. [Pytorch tutorials](https://brsoff.github.io/tutorials/index.html)
+6. [Awesome python machine learning, curated materials](https://github.com/sorend/awesome-python-machine-learning)
 
 
 
@@ -115,5 +122,7 @@ Python packages for molecules and materials, focus on basic data structures and 
 
 1. [RDKit tutorials](https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 2. [RDKit cookbook](https://www.rdkit.org/docs/Cookbook.html)
-3. [Pymatgen tutorial videos on its Youtube channel](https://www.youtube.com/c/MaterialsProject/videos)
-4. [ASE tutorials](https://databases.fysik.dtu.dk/ase/tutorials/tutorials.html) 
+3. [Python Materials Genomics (pymatgen): A robust, open-source python library for materials analysis](https://doi.org/10.1016/j.commatsci.2012.10.028), Computational Materials Science (2013)
+4. [Pymatgen tutorial videos on its Youtube channel](https://www.youtube.com/c/MaterialsProject/videos)
+5. [The atomic simulation environment—a Python library for working with atoms](https://doi.org/10.1088/1361-648X/aa680e), Journal of Physics: Condensed Matter (2017)
+6. [ASE tutorials](https://databases.fysik.dtu.dk/ase/tutorials/tutorials.html) 
