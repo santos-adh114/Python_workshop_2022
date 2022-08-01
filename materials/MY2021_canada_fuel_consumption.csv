@@ -1,0 +1,936 @@
+Model,Make,Model,Vehicle Class,Engine Size,Cylinders,Transmission,Fuel,City rate,Hwy rate,Combined rate,premium_mpg,CO2 Emissions
+2021,Acura,ILX,Compact,2.4,4,AM8,Z,37,26,33,33,318
+2021,Acura,NSX,Two-seater,3.5,6,AM9,Z,42,41,42,26,410
+2021,Acura,RDX SH-AWD,SUV: Small,2,4,AS10,Z,42,33,37,29,371
+2021,Acura,RDX SH-AWD A-SPEC,SUV: Small,2,4,AS10,Z,43,34,39,27,387
+2021,Acura,TLX SH-AWD,Compact,2,4,AS10,Z,42,30,37,29,368
+2021,Acura,TLX SH-AWD A-SPEC,Compact,2,4,AS10,Z,43,31,37,29,370
+2021,Alfa Romeo,Giulia,Mid-size,2,4,A8,Z,38,27,33,32,328
+2021,Alfa Romeo,Giulia AWD,Mid-size,2,4,A8,Z,40,29,35,31,347
+2021,Alfa Romeo,Giulia Quadrifoglio,Mid-size,2.9,6,A8,Z,51,35,44,24,434
+2021,Alfa Romeo,Stelvio,SUV: Small,2,4,A8,Z,39,31,35,30,349
+2021,Alfa Romeo,Stelvio AWD,SUV: Small,2,4,A8,Z,41,31,36,29,362
+2021,Alfa Romeo,Stelvio AWD Quadrifoglio,SUV: Small,2.9,6,A8,Z,53,39,47,23,461
+2021,Aston Martin,DB11 V8,Minicompact,4,8,A8,Z,49,37,44,25,434
+2021,Aston Martin,DB11 AMR,Minicompact,5.2,12,A8,Z,59,40,50,21,499
+2021,Aston Martin,DBS Superleggera,Minicompact,5.2,12,A8,Z,62,40,52,20,518
+2021,Aston Martin,DBX V8,SUV: Standard,4,8,A9,Z,65,48,58,19,571
+2021,Aston Martin,Vantage V8,Two-seater,4,8,A8,Z,50,36,44,25,432
+2021,Aston Martin,Vantage V8,Two-seater,4,8,M7,Z,63,42,54,20,533
+2021,Audi,A4 allroad 45 TFSI quattro,Station wagon: Small,2,4,AM7,Z,37,30,34,32,333
+2021,Audi,A4 Sedan 40 TFSI quattro,Compact,2,4,AM7,Z,35,26,31,34,310
+2021,Audi,A4 Sedan 45 TFSI quattro,Compact,2,4,AM7,Z,37,29,33,32,328
+2021,Audi,A5 Cabriolet 45 TFSI quattro,Subcompact,2,4,AM7,Z,39,28,34,31,339
+2021,Audi,A5 Coupe 45 TFSI quattro,Subcompact,2,4,AM7,Z,37,29,33,32,328
+2021,Audi,A5 Sportback 45 TFSI quattro,Mid-size,2,4,AM7,Z,37,29,33,32,328
+2021,Audi,A6 allroad 55 TFSI quattro,Station wagon: Mid-size,3,6,AM7,Z,45,34,40,27,395
+2021,Audi,A6 Sedan 45 TFSI quattro,Mid-size,2,4,AM7,Z,39,30,35,31,342
+2021,Audi,A6 Sedan 55 TFSI quattro,Mid-size,3,6,AM7,Z,41,31,37,29,363
+2021,Audi,A7 Sportback 55 TFSI quattro,Mid-size,3,6,AM7,Z,41,31,37,29,363
+2021,Audi,A8 L Sedan 55 TFSI quattro,Full-size,3,6,AS8,Z,51,34,44,25,427
+2021,Audi,A8 L Sedan 60 TFSI quattro,Full-size,4,8,AS8,Z,58,39,50,21,493
+2021,Audi,Q3 40 TFSI quattro,SUV: Small,2,4,AS8,X,40,29,35,30,349
+2021,Audi,Q3 45 TFSI quattro,SUV: Small,2,4,AS8,X,44,32,39,28,382
+2021,Audi,Q5 45 TFSI quattro,SUV: Small,2,4,AM7,Z,38,31,35,30,347
+2021,Audi,Q5 Sportback 45 TFSI quattro,SUV: Small,2,4,AM7,Z,38,31,35,30,347
+2021,Audi,Q7 45 TFSI quattro,SUV: Standard,2,4,AS8,Z,47,38,43,25,422
+2021,Audi,Q7 55 TFSI quattro,SUV: Standard,3,6,AS8,Z,51,39,45,24,450
+2021,Audi,Q8 55 TFSI quattro,SUV: Standard,3,6,AS8,Z,51,39,45,24,450
+2021,Audi,R8 Coupe,Two-seater,5.2,10,AM7,Z,65,39,53,20,526
+2021,Audi,R8 Coupe quattro,Two-seater,5.2,10,AM7,Z,67,45,57,19,565
+2021,Audi,R8 Spyder,Two-seater,5.2,10,AM7,Z,65,39,53,20,526
+2021,Audi,R8 Spyder quattro,Two-seater,5.2,10,AM7,Z,67,45,57,19,565
+2021,Audi,RS 5 Coupe quattro,Subcompact,2.9,6,AS8,Z,50,36,44,25,430
+2021,Audi,RS 5 Sportback quattro,Mid-size,2.9,6,AS8,Z,50,35,43,25,426
+2021,Audi,RS 6 Avant quattro,Station wagon: Mid-size,4,8,AS8,Z,61,40,52,21,510
+2021,Audi,RS 7 Sportback quattro,Mid-size,4,8,AS8,Z,61,40,51,21,504
+2021,Audi,RS Q8 quattro,SUV: Standard,4,8,AS8,Z,68,47,58,18,576
+2021,Audi,S4 Sedan quattro,Compact,3,6,AS8,Z,44,32,38,28,379
+2021,Audi,S5 Cabriolet quattro,Subcompact,3,6,AS8,Z,44,34,40,27,390
+2021,Audi,S5 Coupe quattro,Subcompact,3,6,AS8,Z,44,32,38,28,379
+2021,Audi,S5 Sportback quattro,Mid-size,3,6,AS8,Z,44,32,38,28,379
+2021,Audi,S6 Sedan quattro,Mid-size,2.9,6,AS8,Z,49,32,41,26,408
+2021,Audi,S7 Sportback quattro,Mid-size,2.9,6,AS8,Z,49,32,41,26,408
+2021,Audi,S8 Sedan quattro,Full-size,4,8,AS8,Z,67,40,55,19,542
+2021,Audi,SQ5 quattro,SUV: Small,3,6,AS8,Z,50,37,44,24,438
+2021,Audi,SQ5 Sportback quattro,SUV: Small,3,6,AS8,Z,50,37,44,24,438
+2021,Audi,SQ7 quattro,SUV: Standard,4,8,AS8,Z,61,43,53,20,518
+2021,Audi,SQ8 quattro,SUV: Standard,4,8,AS8,Z,61,43,53,20,518
+2021,Audi,TT Coupe 45 TFSI quattro,Subcompact,2,4,AM7,X,39,30,35,31,346
+2021,Audi,TT Roadster 45 TFSI quattro,Two-seater,2,4,AM7,X,39,30,35,31,346
+2021,Audi,TT RS Coupe quattro,Subcompact,2.5,5,AM7,Z,44,30,38,28,371
+2021,Audi,TTS Coupe quattro,Subcompact,2,4,AM7,Z,39,31,36,30,352
+2021,Bentley,Bentayga,SUV: Standard,4,8,AS8,Z,60,37,50,21,494
+2021,Bentley,Bentayga,SUV: Standard,6,12,AS8,Z,72,49,62,17,613
+2021,Bentley,Continental GT,Subcompact,4,8,AM8,Z,57,34,47,23,464
+2021,Bentley,Continental GT,Subcompact,6,12,AM8,Z,72,44,59,18,582
+2021,Bentley,Continental GT Convertible,Minicompact,4,8,AM8,Z,57,34,47,23,464
+2021,Bentley,Continental GT Convertible,Minicompact,6,12,AM8,Z,73,46,61,18,597
+2021,Bentley,Flying Spur,Mid-size,4,8,AM8,Z,59,44,52,21,517
+2021,Bentley,Flying Spur,Mid-size,6,12,AM8,Z,73,46,61,18,597
+2021,BMW,228i xDrive Gran Coupe,Compact,2,4,AS8,Z,39,27,33,32,330
+2021,BMW,230i xDrive Cabriolet,Subcompact,2,4,AS8,Z,42,29,36,29,360
+2021,BMW,230i xDrive Coupe,Subcompact,2,4,AS8,Z,42,29,36,29,360
+2021,BMW,330i xDrive Sedan,Compact,2,4,AS8,Z,36,26,31,34,312
+2021,BMW,430i xDrive Coupe,Subcompact,2,4,AS8,Z,38,27,33,32,323
+2021,BMW,530i xDrive Sedan,Mid-size,2,4,AS8,Z,38,28,34,32,330
+2021,BMW,540i xDrive Sedan,Full-size,3,6,AS8,Z,39,29,34,31,338
+2021,BMW,750i xDrive Sedan,Full-size,4.4,8,AS8,Z,53,37,45,24,450
+2021,BMW,750Li xDrive Sedan,Full-size,4.4,8,AS8,Z,53,37,45,24,450
+2021,BMW,Alpina B7 xDrive,Full-size,4.4,8,AS8,Z,53,37,45,24,450
+2021,BMW,Alpina XB7,SUV: Standard,4.4,8,AS8,Z,59,44,52,20,514
+2021,BMW,M2 Competition,Subcompact,3,6,AM7,Z,54,39,48,22,469
+2021,BMW,M2 Competition,Subcompact,3,6,M6,Z,51,36,44,24,437
+2021,BMW,M235i xDrive Gran Coupe,Compact,2,4,AS8,Z,39,29,35,31,341
+2021,BMW,M240i xDrive Cabriolet,Subcompact,3,6,AS8,Z,43,30,37,29,365
+2021,BMW,M240i xDrive Coupe,Subcompact,3,6,AS8,Z,43,30,37,29,365
+2021,BMW,M340i xDrive Sedan,Compact,3,6,AS8,Z,40,29,35,31,342
+2021,BMW,M440i xDrive Coupe,Subcompact,3,6,AS8,Z,40,29,35,31,342
+2021,BMW,M5 Sedan,Mid-size,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M5 Competition,Mid-size,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M550i xDrive Sedan,Mid-size,4.4,8,AS8,Z,51,36,44,24,435
+2021,BMW,M760i xDrive Sedan,Full-size,6.6,12,AS8,Z,67,45,57,19,566
+2021,BMW,M8 Cabriolet,Subcompact,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M8 Cabriolet Competition,Subcompact,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M8 Coupe,Subcompact,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M8 Coupe Competition,Subcompact,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M8 Gran Coupe,Mid-size,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M8 Gran Coupe Competition,Mid-size,4.4,8,AS8,Z,61,42,52,20,517
+2021,BMW,M850i xDrive Cabriolet,Subcompact,4.4,8,AS8,Z,53,37,45,24,450
+2021,BMW,M850i xDrive Coupe,Subcompact,4.4,8,AS8,Z,51,36,44,24,435
+2021,BMW,M850i xDrive Gran Coupe,Mid-size,4.4,8,AS8,Z,53,37,45,24,450
+2021,BMW,X1 xDrive28i,SUV: Small,2,4,AS8,Z,39,29,34,31,341
+2021,BMW,X2 xDrive28i,SUV: Small,2,4,AS8,Z,37,28,33,32,328
+2021,BMW,X2 M35i,SUV: Small,2,4,AS8,Z,38,29,34,32,334
+2021,BMW,X3 xDrive30i,SUV: Small,2,4,AS8,Z,39,31,35,30,347
+2021,BMW,X3 M,SUV: Small,3,6,AS8,Z,63,46,55,19,542
+2021,BMW,X3 M Competition,SUV: Small,3,6,AS8,Z,63,46,55,19,542
+2021,BMW,X3 M40i,SUV: Small,3,6,AS8,Z,43,33,38,28,376
+2021,BMW,X4 xDrive30i,SUV: Small,2,4,AS8,Z,39,31,35,30,347
+2021,BMW,X4 M,SUV: Small,3,6,AS8,Z,63,46,55,19,542
+2021,BMW,X4 M Competition,SUV: Small,3,6,AS8,Z,63,46,55,19,542
+2021,BMW,X4 M40i,SUV: Small,3,6,AS8,Z,43,33,38,28,376
+2021,BMW,X5 xDrive40i,SUV: Standard,3,6,AS8,Z,43,35,39,27,387
+2021,BMW,X5 M,SUV: Standard,4.4,8,AS8,Z,68,49,59,18,582
+2021,BMW,X5 M Competition,SUV: Standard,4.4,8,AS8,Z,68,49,59,18,582
+2021,BMW,X5 M50i,SUV: Standard,4.4,8,AS8,Z,55,40,48,22,483
+2021,BMW,X6 xDrive40i,SUV: Standard,3,6,AS8,Z,43,35,39,27,387
+2021,BMW,X6 M,SUV: Standard,4.4,8,AS8,Z,68,49,59,18,582
+2021,BMW,X6 M Competition,SUV: Standard,4.4,8,AS8,Z,68,49,59,18,582
+2021,BMW,X6 M50i,SUV: Standard,4.4,8,AS8,Z,55,40,48,22,483
+2021,BMW,X7 xDrive40i,SUV: Standard,3,6,AS8,Z,46,37,42,25,410
+2021,BMW,X7 M50i,SUV: Standard,4.4,8,AS8,Z,59,44,52,20,514
+2021,BMW,Z4 sDrive30i,Two-seater,2,4,AS8,Z,36,28,32,34,315
+2021,BMW,Z4 M40i,Two-seater,3,6,AS8,Z,40,30,36,30,354
+2021,Bugatti,Chiron,Two-seater,8,16,AM7,Z,101,63,84,13,835
+2021,Bugatti,Chiron Pur Sport,Two-seater,8,16,AM7,Z,115,79,99,11,973
+2021,Buick,Enclave,SUV: Standard,3.6,6,A9,X,49,34,42,25,422
+2021,Buick,Enclave AWD,SUV: Standard,3.6,6,A9,X,51,36,45,24,443
+2021,Buick,Encore,SUV: Small,1.4,4,AS6,X,36,30,33,32,326
+2021,Buick,Encore (SIDI),SUV: Small,1.4,4,AS6,X,37,28,33,33,325
+2021,Buick,Encore AWD,SUV: Small,1.4,4,AS6,X,38,30,34,31,342
+2021,Buick,Encore AWD (SIDI),SUV: Small,1.4,4,AS6,X,39,29,34,31,342
+2021,Buick,Encore GX,SUV: Small,1.2,3,AV,X,32,28,30,35,301
+2021,Buick,Envision,SUV: Small,2,4,AS9,X,38,29,34,32,334
+2021,Buick,Envision AWD,SUV: Small,2,4,AS9,X,40,31,36,30,355
+2021,Cadillac,CT4,Compact,2,4,AS8,Z,38,26,33,32,325
+2021,Cadillac,CT4,Compact,2.7,4,AS10,Z,42,29,36,30,354
+2021,Cadillac,CT4 AWD,Compact,2,4,AS8,Z,39,28,34,31,341
+2021,Cadillac,CT4 AWD,Compact,2.7,4,AS10,Z,43,31,37,29,371
+2021,Cadillac,CT4-V,Compact,2.7,4,AS10,Z,44,31,38,28,374
+2021,Cadillac,CT4-V AWD,Compact,2.7,4,AS10,Z,44,32,39,28,382
+2021,Cadillac,CT5,Mid-size,2,4,AS10,Z,39,28,34,31,334
+2021,Cadillac,CT5,Mid-size,3,6,AS10,Z,47,32,40,27,398
+2021,Cadillac,CT5 AWD,Mid-size,2,4,AS10,Z,42,29,36,30,387
+2021,Cadillac,CT5 AWD,Mid-size,3,6,AS10,Z,48,34,42,25,416
+2021,Cadillac,CT5-V,Mid-size,3,6,AS10,Z,48,33,41,26,410
+2021,Cadillac,CT5-V AWD,Mid-size,3,6,AS10,Z,48,34,42,25,416
+2021,Cadillac,Escalade 4WD,SUV: Standard,3,6,A10,D,45,34,40,27,443
+2021,Cadillac,Escalade 4WD,SUV: Standard,6.2,8,A10,Z,64,47,56,19,555
+2021,Cadillac,Escalade 4WD (Without Stop-Start),SUV: Standard,6.2,8,A10,Z,66,48,58,18,571
+2021,Cadillac,XT4,SUV: Small,2,4,AS9,Z,37,30,34,32,334
+2021,Cadillac,XT4 AWD,SUV: Small,2,4,AS9,Z,41,31,37,29,363
+2021,Cadillac,XT5,SUV: Small,2,4,AS9,Z,40,30,36,30,355
+2021,Cadillac,XT5 AWD,SUV: Small,2,4,AS9,Z,42,33,38,28,379
+2021,Cadillac,XT5 AWD,SUV: Small,3.6,6,AS9,X,49,35,42,25,421
+2021,Cadillac,XT6 AWD,SUV: Small,2,4,AS9,Z,42,34,39,28,382
+2021,Cadillac,XT6 AWD,SUV: Small,3.6,6,AS9,X,50,36,44,25,430
+2021,Chevrolet,Blazer,SUV: Small,2,4,A9,X,40,30,36,30,354
+2021,Chevrolet,Blazer,SUV: Small,2.5,4,A9,X,43,34,39,28,381
+2021,Chevrolet,Blazer,SUV: Small,3.6,6,A9,X,45,33,40,27,395
+2021,Chevrolet,Blazer AWD,SUV: Small,2,4,A9,X,40,33,37,29,363
+2021,Chevrolet,Blazer AWD,SUV: Small,3.6,6,A9,X,47,34,41,26,410
+2021,Chevrolet,Camaro,Subcompact,2,4,AS8,Z,41,30,36,30,355
+2021,Chevrolet,Camaro,Subcompact,2,4,M6,Z,48,30,40,27,395
+2021,Chevrolet,Camaro,Subcompact,3.6,6,AS10,X,48,31,40,26,402
+2021,Chevrolet,Camaro,Subcompact,3.6,6,M6,X,55,34,45,24,450
+2021,Chevrolet,Camaro SS,Subcompact,6.2,8,AS10,Z,55,34,45,24,450
+2021,Chevrolet,Camaro SS,Subcompact,6.2,8,M6,Z,56,37,48,22,474
+2021,Chevrolet,Camaro ZL1,Subcompact,6.2,8,AS10,Z,69,42,57,19,568
+2021,Chevrolet,Camaro ZL1,Subcompact,6.2,8,M6,Z,65,45,56,19,558
+2021,Chevrolet,Colorado,Pickup truck: Small,2.5,4,A6,X,46,36,41,26,411
+2021,Chevrolet,Colorado,Pickup truck: Small,2.8,4,A6,D,45,30,38,28,470
+2021,Chevrolet,Colorado,Pickup truck: Small,3.6,6,A8,X,49,35,43,25,421
+2021,Chevrolet,Colorado 4WD,Pickup truck: Small,2.5,4,A6,X,48,37,43,25,429
+2021,Chevrolet,Colorado 4WD,Pickup truck: Small,2.8,4,A6,D,46,32,40,27,470
+2021,Chevrolet,Colorado 4WD,Pickup truck: Small,3.6,6,A8,X,53,37,46,23,454
+2021,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,2.8,4,A6,D,50,40,46,23,522
+2021,Chevrolet,Colorado ZR2 4WD,Pickup truck: Small,3.6,6,A8,X,57,49,53,20,526
+2021,Chevrolet,Corvette,Two-seater,6.2,8,AS8,Z,58,33,47,23,464
+2021,Chevrolet,Equinox,SUV: Small,1.5,4,A6,X,34,29,32,34,317
+2021,Chevrolet,Equinox AWD,SUV: Small,1.5,4,A6,X,36,30,33,32,331
+2021,Chevrolet,Malibu,Mid-size,1.5,4,AV,X,31,25,28,38,280
+2021,Chevrolet,Malibu,Mid-size,2,4,A9,Z,40,27,34,31,341
+2021,Chevrolet,Silverado,Pickup truck: Standard,2.7,4,A8,X,45,39,42,25,421
+2021,Chevrolet,Silverado Custom/WT,Pickup truck: Standard,2.7,4,A8,X,45,39,42,25,421
+2021,Chevrolet,Silverado,Pickup truck: Standard,3,6,A10,D,39,27,33,32,381
+2021,Chevrolet,Silverado,Pickup truck: Standard,4.3,6,A6,X,57,44,51,21,509
+2021,Chevrolet,Silverado,Pickup truck: Standard,5.3,8,A6,X,60,43,52,20,520
+2021,Chevrolet,Silverado (Without AFM),Pickup truck: Standard,5.3,8,A6,X,63,43,54,20,538
+2021,Chevrolet,Silverado FFV,Pickup truck: Standard,5.3,8,A6,X,61,47,55,19,544
+2021,Chevrolet,Silverado FFV,Pickup truck: Standard,5.3,8,A6,E,81,61,72,15,504
+2021,Chevrolet,Silverado,Pickup truck: Standard,5.3,8,A8,X,53,38,46,23,458
+2021,Chevrolet,Silverado (Without DFM),Pickup truck: Standard,5.3,8,A8,X,60,41,51,21,510
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,2.7,4,A8,X,47,41,44,24,440
+2021,Chevrolet,Silverado 4WD Custom/WT,Pickup truck: Standard,2.7,4,A8,X,47,41,44,24,440
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,3,6,A10,D,40,35,38,28,429
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,4.3,6,A6,X,60,45,53,20,526
+2021,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,4.3,6,A6,X,62,49,56,19,555
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.3,8,A6,X,61,45,53,20,530
+2021,Chevrolet,Silverado 4WD (Without AFM),Pickup truck: Standard,5.3,8,A6,X,65,45,56,19,557
+2021,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.3,8,A6,X,62,48,56,19,555
+2021,Chevrolet,Silverado 4WD FFV,Pickup truck: Standard,5.3,8,A6,E,83,62,74,14,522
+2021,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,5.3,8,A6,X,62,50,57,19,560
+2021,Chevrolet,Silverado 4WD Trail Boss (Without AFM),Pickup truck: Standard,5.3,8,A6,X,67,50,59,18,589
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.3,8,A8,X,55,40,48,22,478
+2021,Chevrolet,Silverado 4WD (Without DFM),Pickup truck: Standard,5.3,8,A8,X,64,43,55,20,542
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,5.3,8,A10,X,54,40,48,22,477
+2021,Chevrolet,Silverado 4WD (Without Stop-Start),Pickup truck: Standard,5.3,8,A10,X,58,42,50,21,501
+2021,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,5.3,8,A10,X,56,42,50,22,491
+2021,Chevrolet,Silverado 4WD Trail Boss (Without Stop-Start),Pickup truck: Standard,5.3,8,A10,X,59,43,52,21,514
+2021,Chevrolet,Silverado 4WD,Pickup truck: Standard,6.2,8,A10,Z,56,42,50,22,490
+2021,Chevrolet,Silverado 4WD (Without Stop-Start),Pickup truck: Standard,6.2,8,A10,Z,59,44,52,20,518
+2021,Chevrolet,Silverado 4WD Trail Boss,Pickup truck: Standard,6.2,8,A10,Z,59,47,54,20,531
+2021,Chevrolet,Silverado 4WD Trail Boss (Without Stop-Start),Pickup truck: Standard,6.2,8,A10,Z,64,48,57,19,563
+2021,Chevrolet,Spark,Subcompact,1.4,4,AV,X,29,23,26,40,264
+2021,Chevrolet,Spark,Subcompact,1.4,4,M5,X,30,23,27,39,272
+2021,Chevrolet,Suburban,SUV: Standard,3,6,A10,D,43,33,38,28,435
+2021,Chevrolet,Suburban,SUV: Standard,5.3,8,A10,X,54,45,50,21,494
+2021,Chevrolet,Suburban (Without Stop-Start),SUV: Standard,5.3,8,A10,X,58,45,52,20,520
+2021,Chevrolet,Suburban 4WD,SUV: Standard,3,6,A10,D,45,34,40,27,443
+2021,Chevrolet,Suburban 4WD,SUV: Standard,5.3,8,A10,X,58,47,53,20,525
+2021,Chevrolet,Suburban 4WD (Without Stop-Start),SUV: Standard,5.3,8,A10,X,61,48,55,19,546
+2021,Chevrolet,Suburban 4WD,SUV: Standard,6.2,8,A10,Z,64,47,56,19,555
+2021,Chevrolet,Suburban 4WD (Without Stop-Start),SUV: Standard,6.2,8,A10,Z,66,48,58,18,571
+2021,Chevrolet,Tahoe,SUV: Standard,3,6,A10,D,42,32,37,29,421
+2021,Chevrolet,Tahoe,SUV: Standard,5.3,8,A10,X,54,45,50,21,494
+2021,Chevrolet,Tahoe (Without Stop-Start),SUV: Standard,5.3,8,A10,X,58,45,52,20,520
+2021,Chevrolet,Tahoe 4WD,SUV: Standard,3,6,A10,D,45,34,40,27,443
+2021,Chevrolet,Tahoe 4WD,SUV: Standard,5.3,8,A10,X,56,45,51,21,507
+2021,Chevrolet,Tahoe 4WD (Without Stop-Start),SUV: Standard,5.3,8,A10,X,59,45,53,20,523
+2021,Chevrolet,Tahoe 4WD,SUV: Standard,6.2,8,A10,Z,64,47,56,19,555
+2021,Chevrolet,Tahoe 4WD (Without Stop-Start),SUV: Standard,6.2,8,A10,Z,66,48,58,18,571
+2021,Chevrolet,Trailblazer,SUV: Small,1.2,3,AV,X,32,28,30,35,301
+2021,Chevrolet,Trailblazer,SUV: Small,1.3,3,AV,X,30,27,29,37,286
+2021,Chevrolet,Trailblazer AWD,SUV: Small,1.3,3,A9,X,34,30,32,34,314
+2021,Chevrolet,Traverse,SUV: Standard,3.6,6,A9,X,49,33,42,25,418
+2021,Chevrolet,Traverse AWD,SUV: Standard,3.6,6,A9,X,51,36,45,24,443
+2021,Chevrolet,Trax,SUV: Small,1.4,4,AS6,X,34,29,32,34,314
+2021,Chevrolet,Trax (SIDI),SUV: Small,1.4,4,AS6,X,37,28,33,33,325
+2021,Chevrolet,Trax 4WD,SUV: Small,1.4,4,AS6,X,38,30,34,31,342
+2021,Chevrolet,Trax 4WD (SIDI),SUV: Small,1.4,4,AS6,X,39,29,34,31,342
+2021,Chrysler,300,Full-size,3.6,6,A8,X,47,30,39,27,387
+2021,Chrysler,300,Full-size,5.7,8,A8,X,56,36,47,23,462
+2021,Chrysler,300 AWD,Full-size,3.6,6,A8,X,48,33,42,26,413
+2021,Chrysler,Grand Caravan,Minivan,3.6,6,A9,X,47,32,40,27,398
+2021,Chrysler,Pacifica,Minivan,3.6,6,A9,X,47,32,40,27,398
+2021,Chrysler,Pacifica AWD,Minivan,3.6,6,A9,X,53,36,45,24,446
+2021,Dodge,Challenger,Mid-size,3.6,6,A8,X,47,30,39,27,387
+2021,Dodge,Challenger (MDS),Mid-size,5.7,8,A8,X,56,36,47,23,462
+2021,Dodge,Challenger,Mid-size,5.7,8,M6,Z,59,38,50,22,491
+2021,Dodge,Challenger (MDS),Mid-size,6.4,8,A8,Z,60,36,50,22,490
+2021,Dodge,Challenger,Mid-size,6.4,8,M6,Z,63,39,53,20,520
+2021,Dodge,Challenger AWD,Mid-size,3.6,6,A8,X,48,33,42,26,413
+2021,Dodge,Challenger Widebody (MDS),Mid-size,6.4,8,A8,Z,60,36,50,22,490
+2021,Dodge,Challenger Widebody,Mid-size,6.4,8,M6,Z,63,39,53,20,520
+2021,Dodge,Challenger SRT Hellcat,Mid-size,6.2,8,A8,Z,67,40,55,19,542
+2021,Dodge,Challenger SRT Hellcat,Mid-size,6.2,8,M6,Z,69,43,57,19,563
+2021,Dodge,Challenger SRT Hellcat Widebody,Mid-size,6.2,8,A8,Z,70,43,58,18,574
+2021,Dodge,Challenger SRT Hellcat Widebody,Mid-size,6.2,8,M6,Z,69,43,57,19,563
+2021,Dodge,Charger,Full-size,3.6,6,A8,X,47,30,39,27,387
+2021,Dodge,Charger (MDS),Full-size,5.7,8,A8,X,56,36,47,23,462
+2021,Dodge,Charger (MDS),Full-size,6.4,8,A8,Z,60,36,50,22,490
+2021,Dodge,Charger AWD,Full-size,3.6,6,A8,X,48,33,42,26,413
+2021,Dodge,Charger Widebody (MDS),Full-size,6.4,8,A8,Z,60,36,50,22,490
+2021,Dodge,Charger SRT Hellcat Widebody,Full-size,6.2,8,A8,Z,72,44,59,18,589
+2021,Dodge,Durango AWD,SUV: Standard,3.6,6,A8,X,48,36,43,25,424
+2021,Dodge,Durango AWD,SUV: Standard,5.7,8,A8,X,63,41,53,20,530
+2021,Dodge,Durango AWD SRT,SUV: Standard,6.4,8,A8,Z,69,46,59,18,581
+2021,Dodge,Durango AWD SRT Hellcat,SUV: Standard,6.2,8,A8,Z,78,52,66,16,656
+2021,FIAT,500X AWD,SUV: Small,1.3,4,A9,X,38,30,34,31,354
+2021,Ford,Bronco 4WD,SUV: Small,2.3,4,AS10,X,44,40,42,25,422
+2021,Ford,Bronco 4WD,SUV: Small,2.3,4,M7,X,44,41,43,25,424
+2021,Ford,Bronco 4WD,SUV: Small,2.7,6,AS10,X,48,44,46,23,459
+2021,Ford,Bronco Badlands 4WD,SUV: Small,2.3,4,AS10,X,51,52,51,21,509
+2021,Ford,Bronco Badlands 4WD,SUV: Small,2.3,4,M7,X,56,50,53,20,528
+2021,Ford,Bronco Badlands 4WD,SUV: Small,2.7,6,AS10,X,52,50,51,21,504
+2021,Ford,Bronco Black Diamond 4WD,SUV: Small,2.3,4,AS10,X,50,50,50,22,493
+2021,Ford,Bronco Black Diamond 4WD,SUV: Small,2.3,4,M7,X,52,47,50,21,496
+2021,Ford,Bronco Sasquatch 4WD,SUV: Small,2.3,4,AS10,X,50,50,50,22,493
+2021,Ford,Bronco Sasquatch 4WD,SUV: Small,2.7,6,AS10,X,53,53,53,20,523
+2021,Ford,Bronco Sport 4WD,SUV: Small,1.5,3,A8,X,35,31,34,32,334
+2021,Ford,Bronco Sport 4WD,SUV: Small,2,4,AS8,X,42,34,38,28,381
+2021,Ford,EcoSport,SUV: Small,1,3,AS6,X,33,31,32,34,315
+2021,Ford,EcoSport AWD,SUV: Small,2,4,AS6,X,39,30,35,31,347
+2021,Ford,Edge,SUV: Small,2,4,A8,X,42,31,37,29,366
+2021,Ford,Edge AWD,SUV: Small,2,4,A8,X,44,31,38,28,378
+2021,Ford,Edge AWD,SUV: Small,2,4,AS8,X,44,31,38,28,379
+2021,Ford,Edge AWD,SUV: Small,2.7,6,AS8,X,48,35,42,25,419
+2021,Ford,Escape,SUV: Small,1.5,3,A8,X,32,26,30,36,291
+2021,Ford,Escape AWD,SUV: Small,1.5,3,A8,X,34,29,32,34,317
+2021,Ford,Escape AWD,SUV: Small,2,4,A8,X,39,28,34,31,341
+2021,Ford,Escape Hybrid,SUV: Small,2.5,4,AV,X,20,24,22,49,218
+2021,Ford,Escape Hybrid AWD,SUV: Small,2.5,4,AV,X,21,24,22,48,222
+2021,Ford,Expedition 4X4,SUV: Standard,3.5,6,AS10,X,53,40,48,22,472
+2021,Ford,Expedition MAX 4X4,SUV: Standard,3.5,6,AS10,X,56,42,50,22,493
+2021,Ford,Explorer AWD,SUV: Standard,2.3,4,A10,X,44,33,39,27,387
+2021,Ford,Explorer AWD,SUV: Standard,2.3,4,AS10,X,44,33,39,27,387
+2021,Ford,Explorer AWD,SUV: Standard,3,6,AS10,X,51,37,45,24,443
+2021,Ford,Explorer Timberline AWD,SUV: Standard,2.3,4,AS10,X,46,39,43,25,429
+2021,Ford,Explorer Hybrid AWD,SUV: Standard,3.3,6,AS10,X,38,34,36,29,360
+2021,Ford,F-150,Pickup truck: Standard,2.7,6,AS10,X,45,35,41,26,405
+2021,Ford,F-150 FFV,Pickup truck: Standard,3.3,6,AS10,X,45,37,42,26,414
+2021,Ford,F-150 FFV,Pickup truck: Standard,3.3,6,AS10,E,63,48,56,19,387
+2021,Ford,F-150,Pickup truck: Standard,3.5,6,AS10,X,50,38,44,24,438
+2021,Ford,F-150 FFV,Pickup truck: Standard,5,8,AS10,X,53,38,46,23,459
+2021,Ford,F-150 FFV,Pickup truck: Standard,5,8,AS10,E,79,51,67,16,466
+2021,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,X,55,39,48,22,474
+2021,Ford,F-150 FFV (Without Stop-Start),Pickup truck: Standard,5,8,AS10,E,75,52,65,17,454
+2021,Ford,F-150 4X4,Pickup truck: Standard,2.7,6,AS10,X,48,38,44,25,434
+2021,Ford,F-150 4X4 (Without Stop-Start),Pickup truck: Standard,2.7,6,AS10,X,51,38,45,24,448
+2021,Ford,F-150 4X4,Pickup truck: Standard,3,6,AS10,D,45,34,40,26,459
+2021,Ford,F-150 FFV 4X4,Pickup truck: Standard,3.3,6,AS10,X,47,40,44,24,440
+2021,Ford,F-150 FFV 4X4,Pickup truck: Standard,3.3,6,AS10,E,65,50,58,18,403
+2021,Ford,F-150 4X4,Pickup truck: Standard,3.5,6,AS10,X,51,39,45,24,451
+2021,Ford,F-150 FFV 4X4,Pickup truck: Standard,5,8,AS10,X,56,41,50,22,491
+2021,Ford,F-150 FFV 4X4,Pickup truck: Standard,5,8,AS10,E,81,55,69,15,485
+2021,Ford,F-150 FFV 4X4 (Without Stop-Start),Pickup truck: Standard,5,8,AS10,X,58,42,51,21,504
+2021,Ford,F-150 FFV 4X4 (Without Stop-Start),Pickup truck: Standard,5,8,AS10,E,79,56,69,16,482
+2021,Ford,F-150 Raptor 4X4,Pickup truck: Standard,3.5,6,AS10,X,60,50,55,19,550
+2021,Ford,F-150 Raptor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,64,50,58,19,571
+2021,Ford,F-150 Raptor 37 4X4,Pickup truck: Standard,3.5,6,AS10,X,61,55,58,18,574
+2021,Ford,F-150 Raptor 37 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,63,56,60,18,592
+2021,Ford,F-150 Tremor 4X4,Pickup truck: Standard,3.5,6,AS10,X,54,45,50,21,496
+2021,Ford,F-150 Tremor 4X4 (Without Stop-Start),Pickup truck: Standard,3.5,6,AS10,X,56,44,50,21,501
+2021,Ford,F-150 Hybrid,Pickup truck: Standard,3.5,6,AS10,X,36,34,35,30,347
+2021,Ford,F-150 Hybrid 4X4,Pickup truck: Standard,3.5,6,AS10,X,37,37,37,29,366
+2021,Ford,GT,Two-seater,3.5,6,AM7,Z,75,48,63,17,629
+2021,Ford,Mustang,Subcompact,2.3,4,A10,X,42,28,36,30,354
+2021,Ford,Mustang,Subcompact,2.3,4,AS10,X,42,28,36,30,355
+2021,Ford,Mustang (High Performance),Subcompact,2.3,4,AS10,X,44,33,39,27,387
+2021,Ford,Mustang,Subcompact,2.3,4,M6,X,43,31,37,29,373
+2021,Ford,Mustang (High Performance),Subcompact,2.3,4,M6,X,45,33,40,27,394
+2021,Ford,Mustang,Subcompact,5,8,AS10,X,58,37,48,22,480
+2021,Ford,Mustang,Subcompact,5,8,M6,X,61,38,51,21,502
+2021,Ford,Mustang Convertible,Subcompact,2.3,4,A10,X,45,32,39,27,390
+2021,Ford,Mustang Convertible,Subcompact,2.3,4,AS10,X,45,32,39,27,386
+2021,Ford,Mustang Convertible (High Performance),Subcompact,2.3,4,AS10,X,46,34,40,26,402
+2021,Ford,Mustang Convertible,Subcompact,2.3,4,M6,X,45,33,39,27,390
+2021,Ford,Mustang Convertible (High Performance),Subcompact,2.3,4,M6,X,47,35,42,26,413
+2021,Ford,Mustang Convertible,Subcompact,5,8,AS10,X,60,39,50,21,499
+2021,Ford,Mustang Mach 1,Subcompact,5,8,AS10,X,58,38,49,22,485
+2021,Ford,Mustang Mach 1,Subcompact,5,8,M6,X,63,40,53,20,520
+2021,Ford,Ranger 4WD,Pickup truck: Standard,2.3,4,AS10,X,45,37,41,26,410
+2021,Ford,Ranger 4WD Tremor,Pickup truck: Standard,2.3,4,AS10,X,46,47,46,23,459
+2021,Ford,Shelby GT500 Mustang,Subcompact,5.2,8,AM7,Z,75,48,63,17,629
+2021,Ford,T-150 Wagon FFV,Van: Passenger,3.5,6,AS10,X,61,47,55,19,546
+2021,Ford,T-150 Wagon FFV,Van: Passenger,3.5,6,AS10,E,82,62,73,15,514
+2021,Ford,T-150 Wagon FFV 4WD,Van: Passenger,3.5,6,AS10,X,64,49,57,19,566
+2021,Ford,T-150 Wagon FFV 4WD,Van: Passenger,3.5,6,AS10,E,84,64,75,14,530
+2021,Ford,Transit Connect Van,Special purpose vehicle,2,4,AS8,X,37,33,35,30,347
+2021,Ford,Transit Connect Van FFV,Special purpose vehicle,2,4,AS8,X,37,33,35,30,347
+2021,Ford,Transit Connect Van FFV,Special purpose vehicle,2,4,AS8,E,50,45,48,22,334
+2021,Ford,Transit Connect Van,Special purpose vehicle,2.5,4,AS6,X,45,33,40,27,395
+2021,Ford,Transit Connect Wagon LWB,Special purpose vehicle,2,4,AS8,X,37,31,35,31,342
+2021,Ford,Transit Connect Wagon LWB FFV,Special purpose vehicle,2,4,AS8,X,37,31,35,31,342
+2021,Ford,Transit Connect Wagon LWB FFV,Special purpose vehicle,2,4,AS8,E,52,42,47,23,333
+2021,Ford,Transit Connect Wagon LWB,Special purpose vehicle,2.5,4,AS6,X,46,34,40,26,402
+2021,Genesis,G70,Compact,2,4,M6,Z,48,32,41,26,408
+2021,Genesis,G70 AWD,Compact,2,4,AS8,Z,43,32,38,28,378
+2021,Genesis,G70 AWD,Compact,3.3,6,AS8,Z,53,36,45,24,454
+2021,Genesis,G80 AWD,Full-size,2.5,4,AS8,Z,41,30,36,30,360
+2021,Genesis,G80 AWD,Full-size,3.5,6,AS8,Z,49,34,42,25,419
+2021,Genesis,G90 AWD,Full-size,5,8,AS8,Z,57,38,48,22,485
+2021,Genesis,GV80 AWD,SUV: Standard,2.5,4,AS8,Z,43,36,40,27,397
+2021,Genesis,GV80 AWD,SUV: Standard,3.5,6,AS8,Z,49,39,45,24,446
+2021,GMC,Acadia,SUV: Standard,2,4,A9,X,40,30,36,30,354
+2021,GMC,Acadia,SUV: Standard,2.5,4,A9,X,43,34,39,28,381
+2021,GMC,Acadia,SUV: Standard,3.6,6,A9,X,46,33,40,26,400
+2021,GMC,Acadia AWD,SUV: Standard,2,4,A9,X,40,33,37,29,363
+2021,GMC,Acadia AWD,SUV: Standard,3.6,6,A9,X,47,34,41,26,410
+2021,GMC,Canyon,Pickup truck: Small,2.5,4,A6,X,46,36,41,26,411
+2021,GMC,Canyon,Pickup truck: Small,2.8,4,A6,D,45,30,38,28,470
+2021,GMC,Canyon,Pickup truck: Small,3.6,6,A8,X,49,35,43,25,421
+2021,GMC,Canyon 4WD,Pickup truck: Small,2.5,4,A6,X,48,37,43,25,429
+2021,GMC,Canyon 4WD,Pickup truck: Small,2.8,4,A6,D,46,32,40,27,470
+2021,GMC,Canyon 4WD,Pickup truck: Small,3.6,6,A8,X,56,41,50,22,490
+2021,GMC,Sierra,Pickup truck: Standard,2.7,4,A8,X,45,39,42,25,421
+2021,GMC,Sierra WT,Pickup truck: Standard,2.7,4,A8,X,45,39,42,25,421
+2021,GMC,Sierra,Pickup truck: Standard,3,6,A10,D,39,30,34,31,392
+2021,GMC,Sierra,Pickup truck: Standard,4.3,6,A6,X,57,44,51,21,509
+2021,GMC,Sierra,Pickup truck: Standard,5.3,8,A6,X,60,43,52,20,520
+2021,GMC,Sierra (Without AFM),Pickup truck: Standard,5.3,8,A6,X,63,43,54,20,538
+2021,GMC,Sierra FFV,Pickup truck: Standard,5.3,8,A6,X,61,47,55,19,544
+2021,GMC,Sierra FFV,Pickup truck: Standard,5.3,8,A6,E,81,61,72,15,504
+2021,GMC,Sierra,Pickup truck: Standard,5.3,8,A8,X,53,38,47,23,461
+2021,GMC,Sierra (Without DFM),Pickup truck: Standard,5.3,8,A8,X,61,41,52,21,514
+2021,GMC,Sierra 4WD,Pickup truck: Standard,2.7,4,A8,X,49,43,47,23,461
+2021,GMC,Sierra 4WD WT,Pickup truck: Standard,2.7,4,A8,X,50,45,48,22,472
+2021,GMC,Sierra 4WD,Pickup truck: Standard,3,6,A10,D,40,35,38,28,429
+2021,GMC,Sierra 4WD AT4,Pickup truck: Standard,3,6,A10,D,40,35,38,28,429
+2021,GMC,Sierra 4WD,Pickup truck: Standard,4.3,6,A6,X,60,45,53,20,526
+2021,GMC,Sierra 4WD,Pickup truck: Standard,5.3,8,A6,X,61,45,53,20,530
+2021,GMC,Sierra 4WD (Without AFM),Pickup truck: Standard,5.3,8,A6,X,65,45,56,19,557
+2021,GMC,Sierra 4WD FFV,Pickup truck: Standard,5.3,8,A6,X,62,48,56,19,555
+2021,GMC,Sierra 4WD FFV,Pickup truck: Standard,5.3,8,A6,E,83,62,74,14,522
+2021,GMC,Sierra 4WD AT4,Pickup truck: Standard,5.3,8,A6,X,63,50,57,19,568
+2021,GMC,Sierra 4WD,Pickup truck: Standard,5.3,8,A8,X,58,42,50,21,501
+2021,GMC,Sierra 4WD (Without DFM),Pickup truck: Standard,5.3,8,A8,X,66,44,56,19,558
+2021,GMC,Sierra 4WD AT4,Pickup truck: Standard,5.3,8,A8,X,58,42,50,21,499
+2021,GMC,Sierra 4WD AT4 (Without DFM),Pickup truck: Standard,5.3,8,A8,X,66,44,56,19,557
+2021,GMC,Sierra 4WD,Pickup truck: Standard,5.3,8,A10,X,54,40,48,22,477
+2021,GMC,Sierra 4WD (Without Stop-Start),Pickup truck: Standard,5.3,8,A10,X,58,42,50,21,501
+2021,GMC,Sierra 4WD AT4,Pickup truck: Standard,5.3,8,A10,X,56,42,50,22,491
+2021,GMC,Sierra 4WD AT4 (Without Stop-Start),Pickup truck: Standard,5.3,8,A10,X,59,43,52,21,514
+2021,GMC,Sierra 4WD,Pickup truck: Standard,6.2,8,A10,Z,57,44,51,21,506
+2021,GMC,Sierra 4WD (Without Stop-Start),Pickup truck: Standard,6.2,8,A10,Z,61,45,54,20,536
+2021,GMC,Sierra 4WD AT4,Pickup truck: Standard,6.2,8,A10,Z,59,47,54,20,531
+2021,GMC,Sierra 4WD AT4 (Without Stop-Start),Pickup truck: Standard,6.2,8,A10,Z,64,48,57,19,563
+2021,GMC,Terrain,SUV: Small,1.5,4,A9,X,35,30,33,33,322
+2021,GMC,Terrain AWD,SUV: Small,1.5,4,A9,X,36,31,34,31,338
+2021,GMC,Yukon,SUV: Standard,3,6,A10,D,43,33,38,28,435
+2021,GMC,Yukon,SUV: Standard,5.3,8,A10,X,54,45,50,21,494
+2021,GMC,Yukon (Without Stop-Start),SUV: Standard,5.3,8,A10,X,58,45,52,20,520
+2021,GMC,Yukon 4WD,SUV: Standard,3,6,A10,D,45,34,40,27,443
+2021,GMC,Yukon 4WD,SUV: Standard,5.3,8,A10,X,56,45,51,21,507
+2021,GMC,Yukon 4WD (Without Stop-Start),SUV: Standard,5.3,8,A10,X,59,45,53,20,523
+2021,GMC,Yukon 4WD,SUV: Standard,6.2,8,A10,Z,64,47,56,19,555
+2021,GMC,Yukon 4WD (Without Stop-Start),SUV: Standard,6.2,8,A10,Z,66,48,58,18,571
+2021,GMC,Yukon XL,SUV: Standard,3,6,A10,D,43,33,38,28,435
+2021,GMC,Yukon XL,SUV: Standard,5.3,8,A10,X,54,45,50,21,494
+2021,GMC,Yukon XL (Without Stop-Start),SUV: Standard,5.3,8,A10,X,58,45,52,20,520
+2021,GMC,Yukon XL 4WD,SUV: Standard,3,6,A10,D,45,34,40,27,443
+2021,GMC,Yukon XL 4WD,SUV: Standard,5.3,8,A10,X,58,47,53,20,525
+2021,GMC,Yukon XL 4WD (Without Stop-Start),SUV: Standard,5.3,8,A10,X,61,48,55,19,546
+2021,GMC,Yukon XL 4WD,SUV: Standard,6.2,8,A10,Z,64,47,56,19,555
+2021,GMC,Yukon XL 4WD (Without Stop-Start),SUV: Standard,6.2,8,A10,Z,66,48,58,18,571
+2021,Honda,Accord,Full-size,1.5,4,AV,X,30,25,27,39,269
+2021,Honda,Accord Sport/Touring,Full-size,1.5,4,AV7,X,31,26,28,38,282
+2021,Honda,Accord Sport/Touring,Full-size,2,4,AS10,X,39,28,34,31,338
+2021,Honda,Accord Hybrid,Full-size,2,4,AV,X,19,19,19,56,187
+2021,Honda,Accord Hybrid Sport/Touring,Full-size,2,4,AV,X,20,22,21,51,206
+2021,Honda,Civic Hatchback,Full-size,1.5,4,M6,X,31,24,28,39,274
+2021,Honda,Civic Hatchback Sport,Full-size,1.5,4,AV7,Z,30,25,28,38,275
+2021,Honda,Civic Hatchback Sport,Full-size,1.5,4,M6,Z,31,24,28,39,274
+2021,Honda,Civic Sedan,Mid-size,1.5,4,AV7,X,30,23,27,40,264
+2021,Honda,Civic Sedan,Mid-size,2,4,AV,X,30,23,27,40,267
+2021,Honda,Civic Sedan,Mid-size,2,4,AV7,X,31,25,28,38,275
+2021,Honda,Civic Type R,Full-size,2,4,M6,Z,40,32,36,29,357
+2021,Honda,CR-V,SUV: Small,1.5,4,AV,X,31,26,29,37,288
+2021,Honda,CR-V AWD,SUV: Small,1.5,4,AV,X,33,28,31,35,302
+2021,Honda,HR-V,Station wagon: Small,1.8,4,AV,X,32,26,30,36,290
+2021,Honda,HR-V AWD,Station wagon: Small,1.8,4,AV,X,33,28,31,34,309
+2021,Honda,HR-V AWD,Station wagon: Small,1.8,4,AV7,X,34,29,32,33,320
+2021,Honda,Insight EX,Mid-size,1.5,4,AV,X,17,20,19,58,184
+2021,Honda,Insight Touring,Compact,1.5,4,AV,X,17,20,19,58,184
+2021,Honda,Odyssey,Minivan,3.5,6,AS10,X,46,32,40,27,397
+2021,Honda,Passport AWD,SUV: Small,3.5,6,AS9,X,47,37,43,25,424
+2021,Honda,Pilot AWD,SUV: Small,3.5,6,AS9,X,47,35,42,26,410
+2021,Honda,Ridgeline AWD,Pickup truck: Standard,3.5,6,AS9,X,48,37,44,25,434
+2021,Hyundai,Elantra,Mid-size,1.6,4,AM7,X,32,25,29,37,286
+2021,Hyundai,Elantra,Mid-size,2,4,AV1,X,28,22,25,42,251
+2021,Hyundai,Elantra (ISG),Mid-size,2,4,AV1,X,27,21,24,44,243
+2021,Hyundai,Elantra,Mid-size,2,4,M6,X,34,24,30,36,296
+2021,Hyundai,Elantra Hybrid Blue,Mid-size,1.6,4,AM6,X,17,16,17,64,165
+2021,Hyundai,IONIQ,Full-size,1.6,4,AM6,X,16,16,16,67,158
+2021,Hyundai,IONIQ Blue,Full-size,1.6,4,AM6,X,15,15,15,71,150
+2021,Hyundai,Kona,SUV: Small,2,4,AS6,X,33,26,30,36,299
+2021,Hyundai,Kona AWD,SUV: Small,1.6,4,AM7,X,34,30,33,33,322
+2021,Hyundai,Kona AWD,SUV: Small,2,4,AS6,X,35,30,33,33,323
+2021,Hyundai,Palisade,SUV: Standard,3.8,6,AS8,X,45,33,40,27,400
+2021,Hyundai,Palisade AWD,SUV: Standard,3.8,6,AS8,X,47,36,42,25,424
+2021,Hyundai,Santa Fe,SUV: Small,2.5,4,AS8,X,36,32,34,31,342
+2021,Hyundai,Santa Fe AWD,SUV: Small,2.5,4,AM8,X,42,32,37,29,373
+2021,Hyundai,Santa Fe AWD,SUV: Small,2.5,4,AS8,X,40,35,38,28,376
+2021,Hyundai,Santa Fe Hybrid,SUV: Small,1.6,4,AM6,X,27,30,28,38,282
+2021,Hyundai,Sonata,Full-size,1.6,4,AS8,X,33,24,29,37,291
+2021,Hyundai,Sonata,Full-size,2.5,4,AM8,X,38,27,33,32,333
+2021,Hyundai,Sonata,Full-size,2.5,4,AS8,X,33,24,29,37,291
+2021,Hyundai,Sonata Hybrid,Full-size,2,4,AM6,X,20,17,19,56,187
+2021,Hyundai,Tucson,SUV: Small,2,4,AS6,X,38,30,34,31,346
+2021,Hyundai,Tucson AWD,SUV: Small,2,4,AS6,X,41,35,38,28,382
+2021,Hyundai,Tucson AWD,SUV: Small,2.4,4,AS6,X,42,34,38,28,386
+2021,Hyundai,Veloster N,Compact,2,4,AM8,Z,45,33,40,27,397
+2021,Hyundai,Veloster N,Compact,2,4,M6,Z,40,31,36,30,362
+2021,Hyundai,Venue,Mid-size,1.6,4,AV1,X,30,26,28,38,285
+2021,Hyundai,Venue,Mid-size,1.6,4,M6,X,33,26,30,36,294
+2021,Infiniti,Q50 AWD,Mid-size,3,6,AS7,Z,47,33,41,26,406
+2021,Infiniti,Q50 AWD Red Sport,Mid-size,3,6,AS7,Z,47,35,42,25,418
+2021,Infiniti,Q60 AWD,Subcompact,3,6,AS7,Z,47,33,40,26,403
+2021,Infiniti,Q60 AWD Red Sport,Subcompact,3,6,AS7,Z,47,35,42,26,414
+2021,Infiniti,QX50 AWD,SUV: Small,2,4,AV8,Z,41,31,37,29,366
+2021,Infiniti,QX80 4WD,SUV: Standard,5.6,8,AS7,Z,67,46,57,19,570
+2021,Jaguar,F-TYPE P300 Convertible,Two-seater,2,4,AS8,Z,39,30,35,31,344
+2021,Jaguar,F-TYPE P300 Coupe,Two-seater,2,4,AS8,Z,39,30,35,31,344
+2021,Jaguar,F-TYPE P380 AWD Convertible,Two-seater,3,6,AS8,Z,49,35,43,25,424
+2021,Jaguar,F-TYPE P380 AWD Coupe,Two-seater,3,6,AS8,Z,49,35,43,25,424
+2021,Jaguar,F-TYPE R AWD Convertible,Two-seater,5,8,AS8,Z,58,37,48,22,478
+2021,Jaguar,F-TYPE R AWD Coupe,Two-seater,5,8,AS8,Z,58,37,48,22,478
+2021,Jeep,Cherokee,SUV: Small,2,4,A9,X,39,29,34,31,342
+2021,Jeep,Cherokee,SUV: Small,2.4,4,A9,X,41,28,35,30,350
+2021,Jeep,Cherokee,SUV: Small,3.2,6,A9,X,45,31,39,28,384
+2021,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,2,4,A9,X,42,30,37,29,366
+2021,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,2.4,4,A9,X,42,30,37,29,368
+2021,Jeep,Cherokee 4X4 Active Drive I,SUV: Small,3.2,6,A9,X,46,33,40,27,398
+2021,Jeep,Cherokee 4X4 Active Drive II,SUV: Small,2,4,A9,X,44,33,39,28,384
+2021,Jeep,Cherokee 4X4 Active Drive II,SUV: Small,3.2,6,A9,X,48,34,42,25,414
+2021,Jeep,Cherokee 4X4 Active Drive Lock,SUV: Small,3.2,6,A9,X,49,37,44,25,429
+2021,Jeep,Compass,SUV: Small,2.4,4,A6,X,40,29,35,30,349
+2021,Jeep,Compass 4X4,SUV: Small,2.4,4,A9,X,41,30,36,30,355
+2021,Jeep,Gladiator 4X4 EcoDiesel,Pickup truck: Standard,3,6,A8,D,41,32,37,29,421
+2021,Jeep,Gladiator 4X4 Rubicon EcoDiesel,Pickup truck: Standard,3,6,A8,D,42,33,38,28,434
+2021,Jeep,Gladiator 4X4,Pickup truck: Standard,3.6,6,A8,X,52,40,47,23,464
+2021,Jeep,Gladiator 4X4,Pickup truck: Standard,3.6,6,M6,X,54,39,48,22,474
+2021,Jeep,Grand Cherokee 4X4,SUV: Standard,3.6,6,A8,X,48,36,43,25,424
+2021,Jeep,Grand Cherokee 4X4,SUV: Standard,5.7,8,A8,X,63,41,53,20,530
+2021,Jeep,Grand Cherokee 4X4 SRT,SUV: Standard,6.4,8,A8,Z,69,48,59,18,589
+2021,Jeep,Grand Cherokee 4X4 Trackhawk,SUV: Standard,6.2,8,A8,Z,79,52,67,16,661
+2021,Jeep,Grand Cherokee L 4X4,SUV: Standard,3.6,6,A8,X,49,36,43,25,426
+2021,Jeep,Grand Cherokee L 4X4,SUV: Standard,5.7,8,A8,X,63,41,53,20,530
+2021,Jeep,Renegade,SUV: Small,1.3,4,A9,X,37,28,33,32,326
+2021,Jeep,Renegade,SUV: Small,2.4,4,A9,X,41,30,36,30,355
+2021,Jeep,Renegade 4X4,SUV: Small,1.3,4,A9,X,38,31,35,31,355
+2021,Jeep,Renegade 4X4 Trailhawk,SUV: Small,1.3,4,A9,X,41,33,37,29,370
+2021,Jeep,Renegade 4X4,SUV: Small,2.4,4,A9,X,42,31,37,29,368
+2021,Jeep,Wrangler JL 4X4,SUV: Small,2,4,A8,X,40,37,39,27,386
+2021,Jeep,Wrangler JL 4X4,SUV: Small,3.6,6,A8,X,48,39,45,24,438
+2021,Jeep,Wrangler JL 4X4 eTorque,SUV: Small,3.6,6,A8,X,45,37,42,26,413
+2021,Jeep,Wrangler JL 4X4,SUV: Small,3.6,6,M6,X,52,36,45,24,443
+2021,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,2,4,A8,X,44,37,41,26,402
+2021,Jeep,Wrangler JL Unlimited 4X4 EcoDiesel,SUV: Small,3,6,A8,D,40,31,36,30,408
+2021,Jeep,Wrangler JL Unlimited 4X4 Rubicon EcoDiesel,SUV: Small,3,6,A8,D,42,34,39,28,440
+2021,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6,A8,X,49,40,45,24,448
+2021,Jeep,Wrangler JL Unlimited 4X4 eTorque,SUV: Small,3.6,6,A8,X,47,37,42,25,419
+2021,Jeep,Wrangler JL Unlimited 4X4,SUV: Small,3.6,6,M6,X,52,38,46,23,456
+2021,Kia,Forte,Mid-size,1.6,4,AM7,X,33,25,30,36,294
+2021,Kia,Forte,Mid-size,2,4,AV,X,30,22,26,41,262
+2021,Kia,Forte,Mid-size,2,4,M6,X,33,24,29,37,288
+2021,Kia,Forte 5,Full-size,1.6,4,AM7,X,34,26,30,35,304
+2021,Kia,Forte 5,Full-size,1.6,4,M6,X,37,29,33,32,334
+2021,Kia,Forte 5,Full-size,2,4,AV,X,30,23,27,40,270
+2021,Kia,K5,Full-size,2.5,4,AM8,X,37,28,33,32,331
+2021,Kia,K5 AWD,Full-size,1.6,4,AS8,X,35,26,31,34,309
+2021,Kia,Niro,Station wagon: Small,1.6,4,AM6,X,17,19,17,61,176
+2021,Kia,Niro FE,Station wagon: Small,1.6,4,AM6,X,17,19,17,61,176
+2021,Kia,Niro Touring,Station wagon: Small,1.6,4,AM6,X,19,21,20,53,198
+2021,Kia,Rio,Compact,1.6,4,AV1,X,27,23,25,42,254
+2021,Kia,Rio,Compact,1.6,4,M6,X,29,23,26,40,266
+2021,Kia,Sedona,Minivan,3.3,6,AS8,X,48,38,44,25,435
+2021,Kia,Seltos,SUV: Small,2,4,AV8,X,31,27,29,37,291
+2021,Kia,Seltos AWD,SUV: Small,1.6,4,AM7,X,36,30,33,32,328
+2021,Kia,Seltos AWD,SUV: Small,2,4,AV8,X,33,29,31,34,312
+2021,Kia,Sorento AWD,SUV: Small,2.5,4,AM8,X,42,32,37,29,373
+2021,Kia,Sorento AWD,SUV: Small,2.5,4,AS8,X,38,35,37,29,363
+2021,Kia,Soul,Station wagon: Small,2,4,AV,X,32,26,30,36,299
+2021,Kia,Sportage,SUV: Small,2.4,4,AS6,X,38,29,34,31,342
+2021,Kia,Sportage AWD,SUV: Small,2,4,AS6,X,46,36,42,26,418
+2021,Kia,Sportage AWD,SUV: Small,2.4,4,AS6,X,40,34,38,28,379
+2021,Kia,Stinger AWD,Mid-size,3.3,6,AS8,Z,51,36,45,24,446
+2021,Kia,Telluride AWD,SUV: Small,3.8,6,AS8,X,48,37,43,25,424
+2021,Lamborghini,Aventador Coupe S,Two-seater,6.5,12,AM7,Z,106,59,85,13,832
+2021,Lamborghini,Aventador Coupe SVJ,Two-seater,6.5,12,AM7,Z,106,59,85,13,832
+2021,Lamborghini,Aventador Roadster S,Two-seater,6.5,12,AM7,Z,103,60,84,13,824
+2021,Lamborghini,Aventador Roadster SVJ,Two-seater,6.5,12,AM7,Z,103,60,84,13,824
+2021,Lamborghini,Huracan,Two-seater,5.2,10,AM7,Z,68,49,59,18,592
+2021,Lamborghini,Huracan AWD,Two-seater,5.2,10,AM7,Z,68,49,59,18,594
+2021,Lamborghini,Huracan Spyder,Two-seater,5.2,10,AM7,Z,68,49,59,18,592
+2021,Lamborghini,Huracan Spyder AWD,Two-seater,5.2,10,AM7,Z,68,49,59,18,594
+2021,Lamborghini,Urus,SUV: Standard,4,8,AS8,Z,73,53,64,17,614
+2021,Lexus,ES 250 AWD,Mid-size,2.5,4,AS8,X,36,26,32,34,315
+2021,Lexus,ES 300h,Mid-size,2.5,4,AV6,X,21,20,20,53,198
+2021,Lexus,ES 350,Mid-size,3.5,6,AS8,X,40,27,34,31,341
+2021,Lexus,ES 350 F SPORT,Mid-size,3.5,6,AS8,X,41,28,36,30,350
+2021,Lexus,GX 460,SUV: Standard,4.6,8,AS6,Z,61,47,55,19,539
+2021,Lexus,IS 300,Compact,2,4,AS8,Z,42,29,36,30,354
+2021,Lexus,IS 300 AWD,Compact,3.5,6,AS6,Z,46,34,41,26,405
+2021,Lexus,IS 350 AWD,Compact,3.5,6,AS6,Z,46,34,41,26,405
+2021,Lexus,LC 500,Subcompact,5,8,AS10,Z,57,36,48,22,470
+2021,Lexus,LC 500 Convertible,Minicompact,5,8,AS10,Z,61,36,49,22,486
+2021,Lexus,LC 500h,Subcompact,3.5,6,AV10,Z,34,27,31,35,302
+2021,Lexus,LS 500 AWD,Mid-size,3.5,6,AS10,Z,52,33,42,25,430
+2021,Lexus,LS 500h AWD,Mid-size,3.5,6,AV10,Z,38,31,35,31,341
+2021,Lexus,LX 570,SUV: Standard,5.7,8,AS8,Z,73,54,64,17,632
+2021,Lexus,NX 300 AWD,SUV: Small,2,4,AS6,Z,40,32,37,29,362
+2021,Lexus,NX 300 AWD F SPORT,SUV: Small,2,4,AS6,Z,41,34,37,29,371
+2021,Lexus,NX 300h AWD,SUV: Small,2.5,4,AV6,X,27,30,28,38,280
+2021,Lexus,RC 300 AWD,Subcompact,3.5,6,AS6,Z,46,34,41,26,405
+2021,Lexus,RC 350 AWD,Subcompact,3.5,6,AS6,Z,46,34,41,26,405
+2021,Lexus,RC F,Subcompact,5,8,AS8,Z,55,36,46,23,456
+2021,Lexus,RX 350 AWD,SUV: Small,3.5,6,AS8,X,46,34,41,26,403
+2021,Lexus,RX 350 L AWD,SUV: Small,3.5,6,AS8,X,50,36,42,25,429
+2021,Lexus,RX 450h AWD,SUV: Standard,3.5,6,AV6,Z,28,32,30,36,296
+2021,Lexus,RX 450h L AWD,SUV: Standard,3.5,6,AV6,Z,31,32,31,35,304
+2021,Lexus,UX 200,Mid-size,2,4,AS10,X,30,24,27,39,269
+2021,Lexus,UX 250h,Compact,2,4,AV6,X,21,22,21,50,208
+2021,Lexus,UX 250h AWD,Compact,2,4,AV6,X,22,23,23,47,224
+2021,Lincoln,Aviator AWD,SUV: Standard,3,6,AS10,X,52,37,45,24,448
+2021,Lincoln,Corsair AWD,SUV: Small,2,4,AS8,X,42,31,37,29,366
+2021,Lincoln,Corsair AWD,SUV: Small,2.3,4,AS8,X,42,31,37,29,371
+2021,Lincoln,Nautilus AWD,SUV: Small,2,4,A8,X,45,36,40,26,403
+2021,Lincoln,Nautilus AWD,SUV: Small,2,4,AS8,X,45,36,40,26,403
+2021,Lincoln,Nautilus AWD,SUV: Small,2.7,6,AS8,X,48,35,42,25,419
+2021,Lincoln,Navigator 4X4,SUV: Standard,3.5,6,AS10,X,57,44,51,21,506
+2021,Maserati,Ghibli,Mid-size,3,6,AS8,Z,52,36,45,24,443
+2021,Maserati,Ghibli S,Mid-size,3,6,AS8,Z,52,36,45,24,443
+2021,Maserati,Ghibli S Q4,Mid-size,3,6,AS8,Z,56,37,48,22,469
+2021,Maserati,Ghibli Trofeo,Mid-size,3.8,8,AS8,Z,66,45,56,19,557
+2021,Maserati,Levante,SUV: Standard,3,6,AS8,Z,57,41,50,21,493
+2021,Maserati,Levante S,SUV: Standard,3,6,AS8,Z,57,41,50,21,493
+2021,Maserati,Levante GTS,SUV: Standard,3.8,8,AS8,Z,66,45,57,19,558
+2021,Maserati,Levante Trofeo,SUV: Standard,3.8,8,AS8,Z,66,45,57,19,558
+2021,Maserati,Quattroporte S,Full-size,3,6,AS8,Z,55,37,47,23,466
+2021,Maserati,Quattroporte S Q4,Full-size,3,6,AS8,Z,56,37,48,22,469
+2021,Maserati,Quattroporte Trofeo,Full-size,3.8,8,AS8,Z,66,45,56,19,557
+2021,Mazda,CX-3,Compact,2,4,AS6,X,31,26,29,37,286
+2021,Mazda,CX-3 (SIL),Compact,2,4,M6,X,33,26,30,35,298
+2021,Mazda,CX-3 4WD,Compact,2,4,AS6,X,33,28,31,35,302
+2021,Mazda,CX-30,SUV: Small,2,4,AS6,X,34,27,31,35,302
+2021,Mazda,CX-30,SUV: Small,2.5,4,AS6,X,35,27,31,34,310
+2021,Mazda,CX-30 4WD,SUV: Small,2,4,AS6,X,36,29,33,33,323
+2021,Mazda,CX-30 4WD,SUV: Small,2.5,4,AS6,X,37,29,34,32,333
+2021,Mazda,CX-30 Turbo 4WD,SUV: Small,2.5,4,AS6,X,40,30,35,30,352
+2021,Mazda,CX-5,SUV: Small,2.5,4,AS6,X,37,30,33,32,330
+2021,Mazda,CX-5 (Cylinder Deactivation),SUV: Small,2.5,4,AS6,X,35,29,32,33,322
+2021,Mazda,CX-5 4WD,SUV: Small,2.5,4,AS6,X,39,31,35,30,347
+2021,Mazda,CX-5 4WD (Cylinder Deactivation),SUV: Small,2.5,4,AS6,X,37,30,34,31,334
+2021,Mazda,CX-5 Turbo 4WD,SUV: Small,2.5,4,AS6,X,41,33,37,29,368
+2021,Mazda,CX-9 4WD,SUV: Small,2.5,4,AS6,X,44,34,40,27,390
+2021,Mazda,Mazda3 4-Door,Compact,2,4,AS6,X,32,25,29,37,285
+2021,Mazda,Mazda3 4-Door (SIL),Compact,2,4,M6,X,33,24,29,37,288
+2021,Mazda,Mazda3 4-Door,Compact,2.5,4,AS6,X,34,25,30,36,294
+2021,Mazda,Mazda3 4-Door 4WD,Compact,2.5,4,AS6,X,35,26,31,34,309
+2021,Mazda,Mazda3 4-Door Turbo 4WD,Compact,2.5,4,AS6,X,38,28,33,32,331
+2021,Mazda,Mazda3 5-Door,Mid-size,2,4,AS6,X,33,25,29,37,290
+2021,Mazda,Mazda3 5-Door (SIL),Mid-size,2,4,M6,X,33,25,30,36,290
+2021,Mazda,Mazda3 5-Door,Mid-size,2.5,4,AS6,X,35,26,31,35,304
+2021,Mazda,Mazda3 5-Door (SIL),Mid-size,2.5,4,M6,X,36,26,32,34,315
+2021,Mazda,Mazda3 5-Door 4WD,Mid-size,2.5,4,AS6,X,36,28,32,33,320
+2021,Mazda,Mazda3 5-Door Turbo 4WD,Mid-size,2.5,4,AS6,X,38,28,34,32,334
+2021,Mazda,Mazda6,Mid-size,2.5,4,AS6,X,34,25,30,35,299
+2021,Mazda,Mazda6 Turbo,Mid-size,2.5,4,AS6,X,38,28,34,32,333
+2021,Mazda,MX-5,Two-seater,2,4,AS6,Z,34,25,30,36,298
+2021,Mazda,MX-5 (SIL),Two-seater,2,4,M6,Z,34,26,31,35,302
+2021,Mercedes-Benz,A 220 4MATIC Sedan,Subcompact,2,4,AM7,Z,36,26,32,34,315
+2021,Mercedes-Benz,A 250 4MATIC Hatch,Station wagon: Small,2,4,AM7,Z,36,26,31,34,309
+2021,Mercedes-Benz,AMG A 35 4MATIC Sedan,Subcompact,2,4,AM7,Z,40,31,36,30,358
+2021,Mercedes-Benz,AMG A 35 4MATIC Hatch,Station wagon: Small,2,4,AM7,Z,40,31,36,30,358
+2021,Mercedes-Benz,AMG C 43 4MATIC Sedan,Compact,3,6,A9,Z,51,33,43,25,426
+2021,Mercedes-Benz,AMG C 43 4MATIC Cabriolet,Subcompact,3,6,A9,Z,47,33,40,26,402
+2021,Mercedes-Benz,AMG C 43 4MATIC Coupe,Subcompact,3,6,A9,Z,47,33,41,26,406
+2021,Mercedes-Benz,AMG C 43 4MATIC Wagon,Station wagon: Small,3,6,A9,Z,47,32,40,27,398
+2021,Mercedes-Benz,AMG C 63 Sedan,Compact,4,8,A9,Z,51,34,43,25,430
+2021,Mercedes-Benz,AMG C 63 S Sedan,Compact,4,8,A9,Z,51,34,43,25,430
+2021,Mercedes-Benz,AMG C 63 S Cabriolet,Subcompact,4,8,A9,Z,53,36,45,24,450
+2021,Mercedes-Benz,AMG C 63 S Coupe,Subcompact,4,8,A9,Z,52,34,44,24,437
+2021,Mercedes-Benz,AMG CLA 35 4MATIC Coupe,Compact,2,4,AM7,Z,40,31,36,30,358
+2021,Mercedes-Benz,AMG CLA 45 4MATIC Coupe,Compact,2,4,AM8,Z,45,31,39,27,387
+2021,Mercedes-Benz,AMG CLS 53 4MATIC+ Coupe,Compact,3,6,A9,Z,43,34,39,27,387
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Sedan,Mid-size,3,6,A9,Z,40,31,36,30,360
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Cabriolet,Subcompact,3,6,A9,Z,43,33,39,28,382
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Coupe,Subcompact,3,6,A9,Z,42,32,38,28,376
+2021,Mercedes-Benz,AMG E 53 4MATIC+ Wagon,Station wagon: Mid-size,3,6,A9,Z,43,33,38,28,381
+2021,Mercedes-Benz,AMG E 63 S 4MATIC+ Sedan,Mid-size,4,8,A9,Z,57,38,48,22,482
+2021,Mercedes-Benz,AMG E 63 S 4MATIC+ Wagon,Station wagon: Mid-size,4,8,A9,Z,56,39,48,22,480
+2021,Mercedes-Benz,AMG G 63 SUV,SUV: Standard,4,8,A9,Z,70,59,65,16,634
+2021,Mercedes-Benz,AMG GLA 35 4MATIC SUV,SUV: Small,2,4,AM8,Z,39,31,36,30,350
+2021,Mercedes-Benz,AMG GLA 45 4MATIC SUV,SUV: Small,2,4,AM8,Z,44,33,39,27,389
+2021,Mercedes-Benz,AMG GLB 35 SUV,SUV: Small,2,4,AM8,Z,42,34,38,28,379
+2021,Mercedes-Benz,AMG GLC 43 4MATIC SUV,SUV: Small,3,6,A9,Z,50,36,44,24,435
+2021,Mercedes-Benz,AMG GLC 43 4MATIC Coupe,SUV: Small,3,6,A9,Z,51,36,44,24,443
+2021,Mercedes-Benz,AMG GLC 63 S 4MATIC+ SUV,SUV: Small,4,8,A9,Z,59,41,51,21,510
+2021,Mercedes-Benz,AMG GLC 63 S 4MATIC+ Coupe,SUV: Small,4,8,A9,Z,58,41,50,21,498
+2021,Mercedes-Benz,AMG GLE 53 4MATIC+ SUV,SUV: Standard,3,6,A9,Z,50,41,46,23,456
+2021,Mercedes-Benz,AMG GLE 53 4MATIC+ Coupe,SUV: Standard,3,6,A9,Z,48,39,44,24,437
+2021,Mercedes-Benz,AMG GLE 63 S 4MATIC+ SUV,SUV: Standard,4,8,A9,Z,61,47,55,19,544
+2021,Mercedes-Benz,AMG GLE 63 S 4MATIC+ Coupe,SUV: Standard,4,8,A9,Z,62,48,56,19,555
+2021,Mercedes-Benz,AMG GLS 63 4MATIC+ SUV,SUV: Standard,4,8,A9,Z,62,49,56,19,555
+2021,Mercedes-Benz,AMG GT 53 4MATIC+ Coupe,Compact,3,6,A9,Z,45,36,41,26,408
+2021,Mercedes-Benz,AMG GT 63 4MATIC+ Coupe,Compact,4,8,A9,Z,59,44,52,21,515
+2021,Mercedes-Benz,AMG GT 63 S 4MATIC+ Coupe,Compact,4,8,A9,Z,57,42,50,21,499
+2021,Mercedes-Benz,AMG GT Black Series Coupe,Two-seater,4,8,AM7,Z,59,45,53,20,525
+2021,Mercedes-Benz,AMG GT C Coupe,Two-seater,4,8,AM7,Z,60,46,54,20,531
+2021,Mercedes-Benz,AMG GT C Roadster,Two-seater,4,8,AM7,Z,60,45,53,20,528
+2021,Mercedes-Benz,AMG GT R Coupe,Two-seater,4,8,AM7,Z,62,45,55,20,542
+2021,Mercedes-Benz,AMG S 63 4MATIC+ Cabriolet,Subcompact,4,8,A9,Z,62,38,51,21,507
+2021,Mercedes-Benz,AMG S 63 4MATIC+ Coupe,Compact,4,8,A9,Z,57,35,47,23,469
+2021,Mercedes-Benz,C 300 4MATIC Sedan,Compact,2,4,A9,Z,38,27,33,32,326
+2021,Mercedes-Benz,C 300 4MATIC Cabriolet,Subcompact,2,4,A9,Z,41,30,36,30,357
+2021,Mercedes-Benz,C 300 4MATIC Coupe,Subcompact,2,4,A9,Z,39,28,34,31,336
+2021,Mercedes-Benz,C 300 4MATIC Wagon,Station wagon: Small,2,4,A9,Z,40,28,34,31,342
+2021,Mercedes-Benz,CLA 250 4MATIC Coupe,Compact,2,4,AM7,Z,37,27,33,33,322
+2021,Mercedes-Benz,CLS 450 4MATIC Coupe,Compact,3,6,A9,Z,40,31,36,30,355
+2021,Mercedes-Benz,E 350 4MATIC Sedan,Mid-size,2,4,A9,Z,40,30,36,30,354
+2021,Mercedes-Benz,E 450 4MATIC Sedan,Mid-size,3,6,A9,Z,39,30,35,31,347
+2021,Mercedes-Benz,E 450 4MATIC Cabriolet,Subcompact,3,6,A9,Z,39,30,35,30,350
+2021,Mercedes-Benz,E 450 4MATIC Coupe,Subcompact,3,6,A9,Z,39,30,35,30,349
+2021,Mercedes-Benz,E 450 4MATIC All-Terrain Wagon,Station wagon: Mid-size,3,6,A9,Z,40,32,36,29,362
+2021,Mercedes-Benz,G 550 SUV,SUV: Standard,4,8,A9,Z,51,47,50,22,491
+2021,Mercedes-Benz,GLA 250 4MATIC SUV,SUV: Small,2,4,AM8,Z,37,27,33,32,325
+2021,Mercedes-Benz,GLB 250 4MATIC SUV,SUV: Small,2,4,AM8,Z,39,30,35,31,346
+2021,Mercedes-Benz,GLC 300 4MATIC SUV,SUV: Small,2,4,A9,Z,43,32,38,28,376
+2021,Mercedes-Benz,GLC 300 4MATIC Coupe,SUV: Small,2,4,A9,Z,40,32,36,29,362
+2021,Mercedes-Benz,GLE 350 4MATIC SUV,SUV: Standard,2,4,A9,Z,47,34,41,26,406
+2021,Mercedes-Benz,GLE 450 4MATIC SUV,SUV: Standard,3,6,A9,Z,43,35,39,27,390
+2021,Mercedes-Benz,GLS 450 4MATIC SUV,SUV: Standard,3,6,A9,Z,45,37,42,26,411
+2021,Mercedes-Benz,GLS 580 4MATIC SUV,SUV: Standard,4,8,A9,Z,55,42,49,22,488
+2021,Mercedes-Benz,Maybach GLS 600 4MATIC SUV,SUV: Standard,4,8,A9,Z,63,47,56,19,554
+2021,Mercedes-Benz,Maybach S 580 4MATIC Sedan,Full-size,4,8,A9,Z,59,37,49,22,482
+2021,Mercedes-Benz,Metris Cargo Van,Special purpose vehicle,2,4,A9,Z,48,38,44,25,429
+2021,Mercedes-Benz,Metris Cargo Van LWB,Special purpose vehicle,2,4,A9,Z,48,38,44,25,429
+2021,Mercedes-Benz,Metris Passenger Van,Special purpose vehicle,2,4,A9,Z,50,41,46,23,454
+2021,Mercedes-Benz,S 500 4MATIC SWB Sedan,Full-size,3,6,A9,Z,43,30,37,29,368
+2021,Mercedes-Benz,S 560 Cabriolet,Subcompact,4,8,A9,Z,55,34,45,24,451
+2021,Mercedes-Benz,S 560 4MATIC Coupe,Compact,4,8,A9,Z,55,34,45,24,451
+2021,Mercedes-Benz,S 580 4MATIC LWB Sedan,Full-size,4,8,A9,Z,55,36,46,23,456
+2021,MINI,Cooper 3 Door,Subcompact,1.5,3,AM7,Z,32,25,28,38,282
+2021,MINI,Cooper 3 Door,Subcompact,1.5,3,M6,Z,33,24,29,37,288
+2021,MINI,Cooper 5 Door,Subcompact,1.5,3,AM7,Z,32,25,28,38,282
+2021,MINI,Cooper 5 Door,Subcompact,1.5,3,M6,Z,33,24,29,37,288
+2021,MINI,Cooper Clubman ALL4,Mid-size,1.5,3,AS8,Z,37,26,32,33,317
+2021,MINI,Cooper Convertible,Minicompact,1.5,3,AM7,Z,32,25,28,38,282
+2021,MINI,Cooper Convertible,Minicompact,1.5,3,M6,Z,33,24,29,37,288
+2021,MINI,Cooper Countryman ALL4,Mid-size,1.5,3,AS8,Z,38,28,33,32,330
+2021,MINI,Cooper S 3 Door,Subcompact,2,4,AM7,Z,34,25,30,36,294
+2021,MINI,Cooper S 3 Door,Subcompact,2,4,M6,Z,39,27,33,32,330
+2021,MINI,Cooper S 5 Door,Subcompact,2,4,AM7,Z,34,25,30,36,294
+2021,MINI,Cooper S 5 Door,Subcompact,2,4,M6,Z,39,27,33,32,330
+2021,MINI,Cooper S Clubman ALL4,Mid-size,2,4,AS8,Z,38,28,34,32,331
+2021,MINI,Cooper S Convertible,Minicompact,2,4,AM7,Z,34,26,31,35,306
+2021,MINI,Cooper S Convertible,Minicompact,2,4,M6,Z,39,28,34,31,334
+2021,MINI,Cooper S Countryman ALL4,Mid-size,2,4,AS8,Z,39,28,34,31,339
+2021,MINI,John Cooper Works 3 Door,Subcompact,2,4,AS8,Z,35,26,31,35,304
+2021,MINI,John Cooper Works 3 Door,Subcompact,2,4,M6,Z,39,27,33,32,330
+2021,MINI,John Cooper Works Clubman ALL4,Mid-size,2,4,AS8,Z,38,29,34,31,336
+2021,MINI,John Cooper Works Convertible,Minicompact,2,4,AS8,Z,36,27,31,34,310
+2021,MINI,John Cooper Works Countryman ALL4,Mid-size,2,4,AS8,Z,38,30,34,31,336
+2021,MINI,John Cooper Works GP,Subcompact,2,4,AS8,Z,37,30,34,32,333
+2021,Mitsubishi,Mirage,Compact,1.2,3,AV,X,25,21,23,46,229
+2021,Mitsubishi,Mirage,Compact,1.2,3,M5,X,27,22,25,43,242
+2021,Mitsubishi,RVR,SUV: Small,2,4,AV6,X,37,30,33,32,330
+2021,Mitsubishi,RVR 4WD,SUV: Small,2,4,AV6,X,38,31,35,31,341
+2021,Mitsubishi,RVR 4WD,SUV: Small,2.4,4,AV6,X,39,31,36,30,349
+2021,Nissan,Altima AWD,Mid-size,2.5,4,AV,X,34,25,30,36,299
+2021,Nissan,Altima AWD SR/Platinum,Mid-size,2.5,4,AV,X,35,25,31,35,304
+2021,Nissan,Armada 4WD,SUV: Standard,5.6,8,AS7,Z,66,49,58,18,579
+2021,Nissan,GT-R,Subcompact,3.8,6,AM6,Z,55,41,48,22,480
+2021,Nissan,Kicks,Mid-size,1.6,4,AV,X,29,25,27,39,270
+2021,Nissan,Maxima,Mid-size,3.5,6,AV7,Z,44,30,37,29,373
+2021,Nissan,Murano,Station wagon: Mid-size,3.5,6,AV7,X,44,31,39,28,384
+2021,Nissan,Murano AWD,Station wagon: Mid-size,3.5,6,AV7,X,45,32,39,27,392
+2021,Nissan,NV200 Cargo Van,Special purpose vehicle,2,4,AV,X,37,34,36,30,357
+2021,Nissan,Qashqai,Station wagon: Small,2,4,AV8,X,33,28,31,35,306
+2021,Nissan,Qashqai,Station wagon: Small,2,4,M6,X,37,30,34,31,339
+2021,Nissan,Qashqai AWD,Station wagon: Small,2,4,AV8,X,34,29,32,34,315
+2021,Nissan,Rogue,SUV: Small,2.5,4,AV8,X,34,26,31,35,302
+2021,Nissan,Rogue AWD,SUV: Small,2.5,4,AV8,X,35,27,31,34,312
+2021,Nissan,Sentra,Mid-size,2,4,AV,X,30,23,27,40,267
+2021,Nissan,Sentra SR,Mid-size,2,4,AV,X,31,23,28,39,274
+2021,Nissan,Sentra,Mid-size,2,4,M6,X,35,24,30,35,299
+2021,Nissan,Sentra SR,Mid-size,2,4,M6,X,36,25,31,35,304
+2021,Nissan,Titan 4WD,Pickup truck: Standard,5.6,8,AS9,Z,58,42,51,21,502
+2021,Nissan,Titan 4WD Pro-4X,Pickup truck: Standard,5.6,8,AS9,Z,58,43,51,21,514
+2021,Nissan,Versa,Compact,1.6,4,AV,X,28,22,25,42,253
+2021,Nissan,Versa,Compact,1.6,4,M5,X,33,25,29,37,290
+2021,Porsche,718 Boxster,Two-seater,2,4,AM7,Z,42,33,38,28,373
+2021,Porsche,718 Boxster,Two-seater,2,4,M6,Z,44,34,40,27,392
+2021,Porsche,718 Boxster GTS 4.0,Two-seater,4,6,AM7,Z,47,37,42,25,416
+2021,Porsche,718 Boxster GTS 4.0,Two-seater,4,6,M6,Z,53,38,46,23,454
+2021,Porsche,718 Boxster S,Two-seater,2.5,4,AM7,Z,46,35,41,26,408
+2021,Porsche,718 Boxster S,Two-seater,2.5,4,M6,Z,47,36,42,25,421
+2021,Porsche,718 Boxster T,Two-seater,2,4,AM7,Z,42,33,38,28,378
+2021,Porsche,718 Boxster T,Two-seater,2,4,M6,Z,44,34,40,27,392
+2021,Porsche,718 Cayman,Two-seater,2,4,AM7,Z,42,33,38,28,373
+2021,Porsche,718 Cayman,Two-seater,2,4,M6,Z,44,34,40,27,392
+2021,Porsche,718 Cayman GT4,Two-seater,4,6,AM7,Z,49,37,44,24,434
+2021,Porsche,718 Cayman GT4,Two-seater,4,6,M6,Z,53,38,46,23,458
+2021,Porsche,718 Cayman GTS 4.0,Two-seater,4,6,AM7,Z,47,37,42,25,416
+2021,Porsche,718 Cayman GTS 4.0,Two-seater,4,6,M6,Z,53,38,46,23,454
+2021,Porsche,718 Cayman S,Two-seater,2.5,4,AM7,Z,46,35,41,26,408
+2021,Porsche,718 Cayman S,Two-seater,2.5,4,M6,Z,47,36,42,25,421
+2021,Porsche,718 Cayman T,Two-seater,2,4,AM7,Z,42,33,38,28,378
+2021,Porsche,718 Cayman T,Two-seater,2,4,M6,Z,44,34,40,27,392
+2021,Porsche,718 Spyder,Two-seater,4,6,AM7,Z,49,37,44,24,434
+2021,Porsche,718 Spyder,Two-seater,4,6,M6,Z,53,38,46,23,458
+2021,Porsche,911 Carrera,Minicompact,3,6,AM8,Z,50,37,44,24,440
+2021,Porsche,911 Carrera Cabriolet,Minicompact,3,6,AM8,Z,50,37,44,24,440
+2021,Porsche,911 Carrera S,Minicompact,3,6,AM8,Z,49,39,44,24,438
+2021,Porsche,911 Carrera S,Minicompact,3,6,M7,Z,48,36,43,25,422
+2021,Porsche,911 Carrera S Cabriolet,Minicompact,3,6,AM8,Z,49,39,44,24,437
+2021,Porsche,911 Carrera S Cabriolet,Minicompact,3,6,M7,Z,52,36,45,24,440
+2021,Porsche,911 Carrera 4,Minicompact,3,6,AM8,Z,50,37,44,24,440
+2021,Porsche,911 Carrera 4 Cabriolet,Minicompact,3,6,AM8,Z,50,37,44,24,440
+2021,Porsche,911 Carrera 4S,Minicompact,3,6,AM8,Z,49,39,45,24,440
+2021,Porsche,911 Carrera 4S,Minicompact,3,6,M7,Z,52,35,45,24,440
+2021,Porsche,911 Carrera 4S Cabriolet,Minicompact,3,6,AM8,Z,48,39,44,24,437
+2021,Porsche,911 Carrera 4S Cabriolet,Minicompact,3,6,M7,Z,52,37,45,24,450
+2021,Porsche,911 Targa 4,Minicompact,3,6,AM8,Z,50,37,44,24,440
+2021,Porsche,911 Targa 4S,Minicompact,3,6,AM8,Z,50,39,45,24,438
+2021,Porsche,911 Targa 4S,Minicompact,3,6,M7,Z,52,37,45,24,445
+2021,Porsche,911 Turbo,Minicompact,3.7,6,AM8,Z,58,45,52,21,514
+2021,Porsche,911 Turbo Cabriolet,Minicompact,3.7,6,AM8,Z,59,45,53,20,518
+2021,Porsche,911 Turbo S,Minicompact,3.7,6,AM8,Z,58,45,52,21,514
+2021,Porsche,911 Turbo S Cabriolet,Minicompact,3.7,6,AM8,Z,61,45,53,20,525
+2021,Porsche,Cayenne,SUV: Standard,3,6,AS8,Z,47,39,44,25,430
+2021,Porsche,Cayenne Coupe,SUV: Standard,3,6,AS8,Z,48,39,44,24,434
+2021,Porsche,Cayenne GTS,SUV: Standard,4,8,AS8,Z,60,47,54,20,530
+2021,Porsche,Cayenne GTS Coupe,SUV: Standard,4,8,AS8,Z,58,47,53,20,522
+2021,Porsche,Cayenne S,SUV: Standard,2.9,6,AS8,Z,50,40,45,24,445
+2021,Porsche,Cayenne S Coupe,SUV: Standard,2.9,6,AS8,Z,51,41,47,23,458
+2021,Porsche,Cayenne Turbo,SUV: Standard,4,8,AS8,Z,59,47,53,20,526
+2021,Porsche,Cayenne Turbo Coupe,SUV: Standard,4,8,AS8,Z,60,46,54,20,531
+2021,Porsche,Macan,SUV: Small,2,4,AM7,Z,46,39,43,25,422
+2021,Porsche,Macan GTS,SUV: Small,2.9,6,AM7,Z,51,40,46,23,456
+2021,Porsche,Macan S,SUV: Small,3,6,AM7,Z,50,36,44,25,438
+2021,Porsche,Macan Turbo,SUV: Small,2.9,6,AM7,Z,51,42,47,23,469
+2021,Porsche,Panamera,Full-size,2.9,6,AM8,Z,50,37,44,24,438
+2021,Porsche,Panamera 4,Full-size,2.9,6,AM8,Z,48,37,44,25,438
+2021,Porsche,Panamera 4 Executive,Full-size,2.9,6,AM8,Z,52,39,46,23,462
+2021,Porsche,Panamera 4 ST,Full-size,2.9,6,AM8,Z,48,39,44,24,438
+2021,Porsche,Panamera 4S,Full-size,2.9,6,AM8,Z,48,37,43,25,442
+2021,Porsche,Panamera 4S Executive,Full-size,2.9,6,AM8,Z,52,39,46,23,467
+2021,Porsche,Panamera 4S ST,Full-size,2.9,6,AM8,Z,52,39,46,23,467
+2021,Porsche,Panamera GTS,Full-size,4,8,AM8,Z,59,42,52,21,517
+2021,Porsche,Panamera GTS ST,Full-size,4,8,AM8,Z,59,45,53,20,517
+2021,Porsche,Panamera Turbo S,Full-size,4,8,AM8,Z,58,42,51,21,522
+2021,Porsche,Panamera Turbo S Executive,Full-size,4,8,AM8,Z,58,42,51,21,522
+2021,Porsche,Panamera Turbo S ST,Full-size,4,8,AM8,Z,58,42,51,21,522
+2021,Ram,1500 EcoDiesel,Pickup truck: Standard,3,6,A8,D,40,28,34,31,389
+2021,Ram,1500 HFE EcoDiesel,Pickup truck: Standard,3,6,A8,D,39,27,34,32,381
+2021,Ram,1500 eTorque,Pickup truck: Standard,3.6,6,A8,X,45,36,41,26,405
+2021,Ram,1500 HFE eTorque,Pickup truck: Standard,3.6,6,A8,X,44,34,39,27,392
+2021,Ram,1500,Pickup truck: Standard,5.7,8,A8,X,61,40,51,21,512
+2021,Ram,1500 eTorque,Pickup truck: Standard,5.7,8,A8,X,53,39,47,23,464
+2021,Ram,1500 4X4 EcoDiesel,Pickup truck: Standard,3,6,A8,D,42,30,37,29,416
+2021,Ram,1500 4X4 eTorque,Pickup truck: Standard,3.6,6,A8,X,46,37,42,26,414
+2021,Ram,1500 4X4,Pickup truck: Standard,5.7,8,A8,X,61,42,52,20,520
+2021,Ram,1500 4X4 eTorque,Pickup truck: Standard,5.7,8,A8,X,53,40,47,23,470
+2021,Ram,1500 4X4 TRX,Pickup truck: Standard,6.2,8,A8,Z,85,62,75,14,744
+2021,Ram,1500 Classic,Pickup truck: Standard,3.6,6,A8,X,53,36,45,24,448
+2021,Ram,1500 Classic,Pickup truck: Standard,5.7,8,A8,X,59,42,51,21,510
+2021,Ram,1500 Classic 4X4,Pickup truck: Standard,3.6,6,A8,X,55,39,48,22,470
+2021,Ram,1500 Classic 4X4,Pickup truck: Standard,5.7,8,A8,X,61,44,53,20,528
+2021,Ram,ProMaster City,Special purpose vehicle,2.4,4,A9,X,42,31,37,29,371
+2021,Rolls-Royce,Cullinan,Station wagon: Mid-size,6.7,12,AS8,Z,76,46,62,17,618
+2021,Rolls-Royce,Cullinan Black Badge,Station wagon: Mid-size,6.7,12,AS8,Z,76,46,62,17,618
+2021,Rolls-Royce,Dawn,Compact,6.6,12,AS8,Z,78,51,66,16,653
+2021,Rolls-Royce,Dawn Black Badge,Compact,6.6,12,AS8,Z,78,51,66,16,653
+2021,Rolls-Royce,Ghost,Full-size,6.7,12,AS8,Z,75,48,63,17,619
+2021,Rolls-Royce,Ghost EWB,Full-size,6.7,12,AS8,Z,75,48,63,17,619
+2021,Rolls-Royce,Phantom,Full-size,6.7,12,AS8,Z,76,45,62,17,611
+2021,Rolls-Royce,Phantom EWB,Full-size,6.7,12,AS8,Z,76,45,62,17,611
+2021,Rolls-Royce,Wraith,Mid-size,6.6,12,AS8,Z,74,48,62,17,619
+2021,Rolls-Royce,Wraith Black Badge,Mid-size,6.6,12,AS8,Z,74,48,62,17,619
+2021,Subaru,Ascent AWD,SUV: Standard,2.4,4,AV8,X,44,34,39,27,390
+2021,Subaru,Crosstrek AWD,SUV: Small,2,4,AV8,X,32,26,30,36,296
+2021,Subaru,Crosstrek AWD,SUV: Small,2,4,M6,X,40,31,36,30,352
+2021,Subaru,Crosstrek AWD,SUV: Small,2.5,4,AV8,X,33,26,30,35,301
+2021,Subaru,Forester AWD,SUV: Small,2.5,4,AV7,X,34,27,31,34,307
+2021,Subaru,Impreza 4-Door AWD,Mid-size,2,4,AV7,X,31,24,28,38,278
+2021,Subaru,Impreza 4-Door AWD,Mid-size,2,4,M5,X,38,29,34,31,336
+2021,Subaru,Impreza 5-Door AWD,Station wagon: Small,2,4,AV7,X,32,25,29,37,285
+2021,Subaru,Impreza 5-Door AWD,Station wagon: Small,2,4,M5,X,38,29,34,31,338
+2021,Subaru,Legacy AWD,Full-size,2.4,4,AV8,X,37,28,33,32,328
+2021,Subaru,Legacy AWD,Full-size,2.5,4,AV8,X,34,25,30,36,294
+2021,Subaru,Outback AWD,SUV: Small,2.4,4,AV8,X,38,30,34,31,341
+2021,Subaru,Outback AWD,SUV: Small,2.5,4,AV8,X,34,27,31,34,307
+2021,Subaru,WRX AWD,Compact,2,4,AV8,Z,49,37,44,25,430
+2021,Subaru,WRX AWD,Compact,2,4,M6,Z,44,33,39,27,389
+2021,Subaru,WRX STI AWD,Compact,2.5,4,M6,Z,55,41,48,22,482
+2021,Toyota,4Runner 4WD,SUV: Standard,4,6,AS5,X,56,47,52,20,514
+2021,Toyota,4Runner 4WD (Part-Time 4WD),SUV: Standard,4,6,AS5,X,56,47,52,20,514
+2021,Toyota,Avalon,Mid-size,3.5,6,AS8,X,41,29,36,30,354
+2021,Toyota,Avalon AWD,Mid-size,2.5,4,AS8,X,36,26,32,34,315
+2021,Toyota,C-HR,Compact,2,4,AS7,X,33,28,31,34,302
+2021,Toyota,Camry LE/SE,Mid-size,2.5,4,AS8,X,32,23,28,38,277
+2021,Toyota,Camry XLE/XSE,Mid-size,2.5,4,AS8,X,33,24,29,37,283
+2021,Toyota,Camry,Mid-size,3.5,6,AS8,X,40,27,34,31,336
+2021,Toyota,Camry XSE,Mid-size,3.5,6,AS8,X,40,28,35,31,344
+2021,Toyota,Camry TRD,Mid-size,3.5,6,AS8,X,41,29,36,30,352
+2021,Toyota,Camry AWD LE/SE,Mid-size,2.5,4,AS8,X,35,26,31,34,304
+2021,Toyota,Camry AWD XLE/XSE,Mid-size,2.5,4,AS8,X,36,26,32,34,315
+2021,Toyota,Camry Hybrid LE,Mid-size,2.5,4,AV,X,19,18,19,58,181
+2021,Toyota,Camry Hybrid SE/XLE/XSE,Mid-size,2.5,4,AV,X,20,19,19,55,194
+2021,Toyota,Corolla,Compact,1.8,4,AV,X,30,23,27,40,264
+2021,Toyota,Corolla XLE,Compact,1.8,4,AV,X,31,24,28,39,272
+2021,Toyota,Corolla,Compact,1.8,4,M6,X,30,23,27,40,264
+2021,Toyota,Corolla,Compact,2,4,AV10,X,29,22,26,42,254
+2021,Toyota,Corolla XSE,Compact,2,4,AV10,X,29,23,26,40,262
+2021,Toyota,Corolla,Compact,2,4,M6,X,31,25,28,38,277
+2021,Toyota,Corolla Apex Edition,Compact,2,4,AV10,X,29,23,26,40,262
+2021,Toyota,Corolla Apex Edition,Compact,2,4,M6,X,32,25,28,38,285
+2021,Toyota,Corolla Hatchback,Compact,2,4,AV10,X,28,22,25,42,253
+2021,Toyota,Corolla Hatchback,Compact,2,4,M6,X,32,25,29,37,286
+2021,Toyota,Corolla Hybrid,Compact,1.8,4,AV,X,17,17,17,63,170
+2021,Toyota,GR Supra 2.0,Two-seater,2,4,AS8,Z,36,28,32,34,315
+2021,Toyota,GR Supra 3.0,Two-seater,3,6,AS8,Z,40,30,36,30,349
+2021,Toyota,Highlander,SUV: Small,3.5,6,AS8,X,45,31,39,27,384
+2021,Toyota,Highlander AWD,SUV: Small,3.5,6,AS8,X,45,33,39,27,386
+2021,Toyota,Highlander Hybrid AWD,SUV: Standard,2.5,4,AV,X,25,26,25,42,253
+2021,Toyota,Highlander Hybrid AWD Limited/Platinum,SUV: Standard,2.5,4,AV,X,25,26,25,42,250
+2021,Toyota,Prius,Mid-size,1.8,4,AV,X,17,18,17,63,170
+2021,Toyota,Prius AWD,Mid-size,1.8,4,AV,X,17,19,18,59,178
+2021,Toyota,RAV4,SUV: Small,2.5,4,AS8,X,33,26,30,36,294
+2021,Toyota,RAV4 (Stop/Start),SUV: Small,2.5,4,AS8,X,32,26,29,37,288
+2021,Toyota,RAV4 AWD,SUV: Small,2.5,4,AS8,X,36,27,32,34,312
+2021,Toyota,RAV4 AWD (Stop/Start),SUV: Small,2.5,4,AS8,X,33,27,30,35,299
+2021,Toyota,RAV4 AWD LE,SUV: Small,2.5,4,AS8,X,33,26,30,36,294
+2021,Toyota,RAV4 AWD TRD Off-Road,SUV: Small,2.5,4,AS8,X,36,28,32,33,320
+2021,Toyota,RAV4 Hybrid AWD,SUV: Small,2.5,4,AV,X,22,24,23,47,224
+2021,Toyota,Sequoia 4WD,SUV: Standard,5.7,8,AS6,X,70,53,62,17,614
+2021,Toyota,Sienna,Minivan,2.5,4,AV,X,25,25,25,43,245
+2021,Toyota,Sienna AWD,Minivan,2.5,4,AV,X,26,25,25,42,251
+2021,Toyota,Tacoma 4WD,Pickup truck: Small,3.5,6,AS6,X,49,40,45,24,445
+2021,Toyota,Tacoma 4WD,Pickup truck: Small,3.5,6,M6,X,52,43,48,22,478
+2021,Toyota,Tacoma 4WD D-Cab TRD Off-Road/PRO,Pickup truck: Small,3.5,6,M6,X,52,44,49,22,480
+2021,Toyota,Tundra,Pickup truck: Standard,5.7,8,AS6,X,67,51,60,18,594
+2021,Toyota,Tundra 4WD,Pickup truck: Standard,5.7,8,AS6,X,68,54,62,17,611
+2021,Toyota,Venza AWD,SUV: Small,2.5,4,AV,X,22,24,23,46,226
+2021,Volkswagen,Arteon 4MOTION,Full-size,2,4,AS8,Z,44,29,37,29,368
+2021,Volkswagen,Atlas 4MOTION,SUV: Small,2,4,AS8,X,44,37,41,26,410
+2021,Volkswagen,Atlas 4MOTION,SUV: Standard,3.6,6,AS8,X,55,41,49,22,482
+2021,Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,2,4,AS8,X,44,38,41,26,411
+2021,Volkswagen,Atlas Cross Sport 4MOTION,SUV: Small,3.6,6,AS8,X,52,39,47,23,462
+2021,Volkswagen,Golf,Compact,1.4,4,AS8,X,31,25,28,38,278
+2021,Volkswagen,Golf,Compact,1.4,4,M6,X,30,23,27,40,266
+2021,Volkswagen,Golf GTI,Compact,2,4,AM7,X,37,28,33,33,322
+2021,Volkswagen,Golf GTI,Compact,2,4,M6,X,38,30,34,31,341
+2021,Volkswagen,Jetta,Compact,1.4,4,AS8,X,30,23,27,40,264
+2021,Volkswagen,Jetta,Compact,1.4,4,M6,X,30,22,26,41,259
+2021,Volkswagen,Jetta GLI,Compact,2,4,AM7,X,37,26,32,34,312
+2021,Volkswagen,Jetta GLI,Compact,2,4,M6,X,37,26,32,33,317
+2021,Volkswagen,Passat,Mid-size,2,4,AS6,X,37,25,31,34,312
+2021,Volkswagen,Tiguan,SUV: Small,2,4,AS8,X,39,31,36,30,350
+2021,Volkswagen,Tiguan 4MOTION,SUV: Small,2,4,AS8,X,42,33,37,29,371
+2021,Volvo,S60 T5,Compact,2,4,AS8,Z,38,26,33,33,320
+2021,Volvo,S60 T5 AWD,Compact,2,4,AS8,Z,41,27,35,31,344
+2021,Volvo,S60 T6 AWD,Compact,2,4,AS8,Z,42,28,36,30,350
+2021,Volvo,S90 T6 AWD,Mid-size,2,4,AS8,Z,43,28,36,29,358
+2021,Volvo,V60 T5,Station wagon: Small,2,4,AS8,Z,38,26,33,33,320
+2021,Volvo,V60 T6 AWD,Station wagon: Small,2,4,AS8,Z,43,28,36,29,358
+2021,Volvo,V60 CC T5 AWD,Station wagon: Small,2,4,AS8,Z,41,29,36,30,352
+2021,Volvo,XC40 T4 AWD,SUV: Small,2,4,AS8,X,40,29,35,30,347
+2021,Volvo,XC40 T5 AWD,SUV: Small,2,4,AS8,Z,40,29,36,30,350
+2021,Volvo,XC60 T5 AWD,SUV: Small,2,4,AS8,Z,42,31,37,29,368
+2021,Volvo,XC60 T6 AWD,SUV: Small,2,4,AS8,Z,44,33,39,27,384
+2021,Volvo,XC90 T5 AWD,SUV: Standard,2,4,AS8,Z,44,32,38,28,378
+2021,Volvo,XC90 T6 AWD,SUV: Standard,2,4,AS8,Z,46,32,40,27,392
